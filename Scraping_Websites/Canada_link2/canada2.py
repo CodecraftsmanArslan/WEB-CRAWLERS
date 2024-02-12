@@ -2,19 +2,23 @@ import pandas as pd
 import json,requests,re
 from bs4 import BeautifulSoup
 import pandas as pd
+import os,sys
 
 i = 0
 count =50
-d = 0  # Initialize d outside the loop
+# d = 0  # Initialize d outside the loop
 increment = 25  # Increment value
 all_info = []  # Initialize an empty list to store all extracted names
 data_list = []
+
+arguments = sys.argv
+d = int(arguments[1]) if len(arguments)>1 else 0
 
 while i < count:
     url = "https://lawsocietyontario.search.windows.net/indexes/lsolpindexprd/docs/search?api-version=2017-11-11"
 
     payload = json.dumps({
-        "search": "(/.*aa.*/)",
+        "search": "(/.*ac.*/)",
         "facets": [
             "memberareasofservicenamesenglish,count:50,sort:value",
             "memberlanguagenamesenglish,count:50,sort:value",
@@ -29,6 +33,8 @@ while i < count:
         "queryType": "full",
         "searchFields": "memberfirstname,membermiddlename,memberlastname,memberfullname,membermailname,memberfirstnameclean,membermiddlenameclean,memberlastnameclean,membermailnameclean"
     })
+    print(f"___________{d}")
+
 
     headers = {
         'authority': 'lawsocietyontario.search.windows.net',
@@ -54,17 +60,24 @@ while i < count:
     links = data['value']
     base_url = "https://lso.ca/public-resources/finding-a-lawyer-or-paralegal/directory-search/member?MemberNumber="
 
+    FILE_PATH = os.path.dirname(os.getcwd()) + "\Canada_link2"
+
     def extract_info(soup, label_text, class_name):
         info = soup.find('div', class_='member-info-label label-wrapper', text=label_text)
         if info:
             info_text = info.find_next('div', class_='member-info-value').text.strip()
             return info_text
         else:
-            return ""
+            return None
 
     def extract_lawyer_info(soup, link):
         name = soup.find("h2").text
         print(name)
+
+        with open(f"{FILE_PATH}/crawled_record.txt", "r") as crawled_records:
+            file_contents = crawled_records.read()
+            if name in file_contents:
+                return None  # Exit early if the name is already in the file
 
         # Extract status
         status = soup.find('div', class_='label-wrapper member-info-label')
@@ -83,8 +96,12 @@ while i < count:
         regulatory_history = extract_info(soup, 'Regulatory History', 'regulatory_info')
         offers_services_in_french = extract_info(soup, 'Offers Services in French?', 'offer_info')
         business_address = extract_info(soup, 'Business Address', 'address_info')
-        phone = "+" + extract_info(soup, ' Phone ', 'phone_info')
+        phone = extract_info(soup, ' Phone ', 'phone_info')
+        if phone:
+            phone = "+" + phone
 
+        with open(f"{FILE_PATH}/crawled_record.txt", "a") as crawled_records:
+                    crawled_records.write(name + "\n")
 
         # Return a dictionary with the extracted data
         return {
@@ -103,15 +120,15 @@ while i < count:
         }
 
     # Iterate over each link and extract information
-
     for link in links:
         url = f"{base_url}{link['membernumber']}"
         response2 = requests.get(url, headers=headers)
         soup = BeautifulSoup(response2.content, "html.parser")
         lawyer_info = extract_lawyer_info(soup, link)
-        data_list.append(lawyer_info)
-        print("Data are Extracted")
-
+        if lawyer_info is not None:
+            data_list.append(lawyer_info)
+            print("Data are Extracted")
+    # d=25
     d += increment 
     if d == 25:  
         d = 25
@@ -119,18 +136,10 @@ while i < count:
     i += increment 
     print(i)
 
-df = pd.DataFrame(data_list)
-df.to_excel('lawyers_and_paralegals_info.xlsx')
-print(df)
+    df = pd.DataFrame(data_list)
+    df.to_excel('lawyers_and_paralegals_info.xlsx')
 
-
-
-
-
-
-
-
-
+# started from  4045
 
 
 
