@@ -1,73 +1,67 @@
+# from selenium import webdriver
+# from selenium.webdriver.common.by import By
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# from bs4 import BeautifulSoup
+# import time,requests
+# import pandas as pd
+# import os,sys
+# from selenium.common.exceptions import TimeoutException
+# from captcha import TwoCaptcha
+
+# driver=webdriver.Chrome("C:\Program Files (x86)\chromedriver.exe")
+# driver.get("https://www.lawsociety.bc.ca/lsbc/apps/lkup/mbr-search.cfm?txt_search_type=2&txt_last_nm=aa&txt_given_nm=&txt_city=&member_search=Search&is_submitted=1&results_no=50#results")
+# time.sleep(2)
+
+# driver.get("https://www.lawsociety.bc.ca/lsbc/apps/lkup/mbr-details.cfm?encrypted=%2C%27%2A%3F%5B%22%20A%2C%24%5C%3D%3EG%3F%5D%5D%0A")
+
+# link_submit= WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//a[@class='aalink']")))
+# link_submit.click()
+# time.sleep(5)
+
+
+# iframe = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//iframe[@class='panel panel-default']")))
+# driver.switch_to.frame(iframe)
+
+# capture_img = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, "//div[@class='container']//form//img")))
+# capture_img.screenshot('captcha/captcha.png')
+
+
+# api_key = os.getenv('APIKEY_2CAPTCHA', '6dec9c6113e2dc5c11baaf85452aa0b8')
+# solver = TwoCaptcha(api_key)
+
+# try:
+#     # Solve CAPTCHA
+#     result = solver.normal('captcha/captcha.png')
+
+# # except Exception as e:
+# except Exception as e:
+#     print("2Captcha API is not working:", e)
+# else:
+#     print(result)
+
+# driver.switch_to.default_content()
+
+
+
+
+
+
+
 from bs4 import BeautifulSoup
 
-html = '''
-<tr class="rgAltRow rgSelectedRow" id="ctl01_TemplateBody_WebPartManager1_gwpciNewQueryMenuCommon_ciNewQueryMenuCommon_ResultsGrid_Grid1_ctl00__9" role="row" aria-selected="true">
-    <td role="gridcell">
-        <div class="row MemberSearch" style="display: flex; align-items: center;">
-            <div class="col-md-4 col-sm-12 profileImg">
-                <img src="/assets/images/default/person.png" alt="">
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <h3>Mr. Thomas Wayne Cary</h3>
-                Special Member – A member in good standing not actively engaged in the private practice of law <br> <br>
-                Samford University Cumberland School of Law<br>
-                Date Admitted: 04/30/1999<br> <br>
-                PO Box 194<br>
-                Barrow, AK 99723-0194<br>
-                (907) 852-0300<br>
-                <a href="http://" target="_blank"></a>
-            </div>
-        </div>
-    </td>
-</tr>
-'''
+with open("data.html","r")as f:
+    outer_html=f.read()
 
-# Parse the HTML
-soup = BeautifulSoup(html, 'html.parser')
+soup=BeautifulSoup(outer_html,"html.parser")
+table = soup.find_all('div', class_='course-box-content')
+for rows in table:
+    tr = rows.find_all('tr')
+    for trs in tr:
+        tds = trs.find_all('td')
+        if len(tds) == 2:
+            key = tds[0].text.strip()
+            value = tds[1].text.strip()
+            print(f"{key}: {value}")
 
-# Extract name
-name = soup.find('h3').get_text(strip=True)
-
-# Extract license
-license = soup.find('div', class_='col-md-4 col-sm-6').find('p').get_text(strip=True)
-
-# Extract university
-university = soup.find('div', class_='col-md-4 col-sm-6').find('br').previous_sibling.strip()
-
-# Extract date
-date_admitted = soup.find('div', class_='col-md-4 col-sm-6').find(text='Date Admitted:').next_sibling.strip()
-
-# Extract address and phone
-address, phone = None, None
-address_phone_text = soup.find('div', class_='col-md-4 col-sm-6').find_all('br')[-1].next_sibling.strip()
-if '(' in address_phone_text and ')' in address_phone_text:
-    phone = address_phone_text
-else:
-    address = address_phone_text
-
-# Print the extracted information
-print("Name:", name)
-print("License:", license)
-print("University:", university)
-print("Date Admitted:", date_admitted)
-print("Address:", address)
-print("Phone:", phone)
-
-
-
-
-
-
-//div[@class="col-md-4 col-sm-6"]//h3
-//div[@class="col-md-4 col-sm-6"]/h3/following-sibling::text()[1]
-//div[@class="col-md-4 col-sm-6"]/a/text()
-//div[@class="col-md-4 col-sm-6"]/text()[contains(., "(")]
-//div[@class="col-md-4 col-sm-6"]/text()[contains(., "Date ")]
-
-
-
-try:
-//div[@class="col-md-4 col-sm-6"]/h3/following-sibling::text()[2]
-except:
-    //div[@class="col-md-4 col-sm-6"]/h3/following-sibling::text()[3]
 

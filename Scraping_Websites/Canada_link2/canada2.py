@@ -18,7 +18,7 @@ while i < count:
     url = "https://lawsocietyontario.search.windows.net/indexes/lsolpindexprd/docs/search?api-version=2017-11-11"
 
     payload = json.dumps({
-        "search": "(/.*ac.*/)",
+        "search": "(/.*aa.*/)",
         "facets": [
             "memberareasofservicenamesenglish,count:50,sort:value",
             "memberlanguagenamesenglish,count:50,sort:value",
@@ -96,6 +96,7 @@ while i < count:
         regulatory_history = extract_info(soup, 'Regulatory History', 'regulatory_info')
         offers_services_in_french = extract_info(soup, 'Offers Services in French?', 'offer_info')
         business_address = extract_info(soup, 'Business Address', 'address_info')
+        email = extract_info(soup, ' Email Address ', 'email')
         phone = extract_info(soup, ' Phone ', 'phone_info')
         if phone:
             phone = "+" + phone
@@ -109,6 +110,7 @@ while i < count:
             'Status': status_text,
             'Mailing Name': mailing_name,
             'phone':phone,
+            'email':email,
             'Law Society Number': law_society_number,
             'Business Name': business_name,
             'Trusteeships': trusteeships,
@@ -136,10 +138,22 @@ while i < count:
     i += increment 
     print(i)
 
-    df = pd.DataFrame(data_list)
-    df.to_excel('lawyers_and_paralegals_info.xlsx')
+    file_path='canada2.xlsx'
+    if not os.path.exists(file_path):
+        df = pd.DataFrame(data_list)
+        df.to_excel(file_path,index=False)
+        print("append to new file")
+    else:
+        exsist_data=pd.read_excel(file_path,engine='openpyxl')
+        new_data=pd.DataFrame(data_list)
+        combined_data=exsist_data.append(new_data,ignore_index=True)
+        combined_data.to_excel(file_path,index=False)
+        print("append to exsisting file")
 
-# started from  4045
+
+
+
+# complete
 
 
 

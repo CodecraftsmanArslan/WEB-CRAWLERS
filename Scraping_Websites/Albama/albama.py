@@ -13,7 +13,7 @@ driver.get("https://members.alabar.org/member_portal/member-search")
 wait = WebDriverWait(driver, 10)  # Wait for up to 10 seconds
 
 
-for i in range(6, 84):
+for i in range(1, 84):
     # Click on the search field
 
     time.sleep(2)
