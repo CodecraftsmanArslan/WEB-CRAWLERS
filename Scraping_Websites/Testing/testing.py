@@ -221,9 +221,13 @@ def process_phone_number(phone):
     return phone.replace('+', '')
 
 
-# Apply the processing function to the 'telephone' and 'fax' columns
 df['telephone'] = df['telephone'].apply(process_phone_number)
 df['fax'] = df['fax'].apply(process_phone_number)
+
+# Add '+' prefix to phone numbers if '+' is not already present
+df['telephone'] = df['telephone'].apply(lambda x: "+" + x if isinstance(x, str) and "+" not in x else x)
+df['fax'] = df['fax'].apply(lambda x: "+" + x if isinstance(x, str) and "+" not in x else x)
+
 
 # Save the modified DataFrame to a new Excel file
 df.to_excel('portugal3.xlsx', index=False)  # Set index=False to exclude the index column
