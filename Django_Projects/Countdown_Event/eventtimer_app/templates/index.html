@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown Timer</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            text-align: center;
+            margin-top: 50px;
+        }
+        #timer-container {
+            font-size: 40px;
+            color: #333;
+        }
+    </style>
+    <script>
+        $(document).ready(function() {
+            // Get initial countdown time from backend
+            var hours = {{ hours }};
+            var minutes = {{ minutes }};
+            var seconds = {{ seconds }};
+
+            // Update the countdown timer every second
+            setInterval(function() {
+                // Decrement seconds
+                seconds--;
+                if (seconds < 0) {
+                    seconds = 59;
+                    // Decrement minutes
+                    minutes--;
+                    if (minutes < 0) {
+                        minutes = 59;
+                        // Decrement hours
+                        hours--;
+                    }
+                }
+
+                // Update the frontend with the new countdown time
+                $('#timer-container').text(hours + ':' + ('0' + minutes).slice(-2) + ':' + ('0' + seconds).slice(-2));
+            }, 1000);  // Update every second
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <h1>Countdown Timer</h1>
+    </header>
+    <main>
+        <h2>Time Remaining:</h2>
+        <div id="timer-container">{{ hours }}:{{ minutes }}:{{ seconds }}</div>
+    </main>
+</body>
+</html>

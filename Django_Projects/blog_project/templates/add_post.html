@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML POST Form</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="{% url 'index'  %}">Add Post</a></li> <!-- This is where "add_post" is included -->
+            </ul>
+        </nav>
+    </header>
+    <h1>ADD POST</h1>  
+    <form action="" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div>
+            <label for="">Title:</label><br>
+            <input type="text" id="" name="title" required value=""><br>
+        </div>
+        <div>
+            <label for="">Description:</label><br>
+            <textarea id="" name="description" rows="4" cols="50" required></textarea><br>
+        </div>
+        <div>
+            <label for="image">Header Image:</label><br>
+            <input type="file" id="image" name="image" accept="image/*" required><br>
+        </div>
+        <input type="hidden" name="edit_id" value="">
+        <div>
+            <input type="submit" value="Save">
+        </div>
+    </form>
+</body>
+</html>

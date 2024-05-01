@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-gap: 20px;
+            justify-items: center;
+            padding: 20px;
+        }
+        .grid-item {
+            text-align: center;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+        .grid-item img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px; /* Add some margin below the image */
+        }
+        .delete-link {
+            float: left; /* Float the delete link to the left */
+            margin-right: 10px; /* Add some margin to separate it from other elements */
+        }
+        .edit-link {
+            float: left; /* Float the delete link to the left */
+            margin-right: 10px; /* Add some margin to separate it from other elements */
+        }
+    </style>
+</head>
+<body>
+
+<h1>Blog Website</h1>
+<div class="grid-container">
+    {% csrf_token %}
+    {% for detail in data %}
+        <div class="grid-item">
+            <img src="{{ detail.image_url }}" alt="Image">
+            <h2>{{ detail.title }}</h2>
+            <p>{{ detail.description }}</p>
+            <a href="{% url 'delete' pk=detail.id %}" class="delete-link">Delete</a>
+            <a href="{% url 'edit' pk=detail.id %}" class="edit-link">Edit</a>
+        </div>
+    {% endfor %}
+</div>
+</body>
+</html>

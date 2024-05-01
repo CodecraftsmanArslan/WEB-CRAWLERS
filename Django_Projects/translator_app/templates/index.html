@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation Form</title>
+</head>
+<body>
+    <h1>Translation Form</h1>
+    <form action="" method="post">
+        {% csrf_token %}
+        <label for="textInput">Enter text:</label>
+        <input type="text" id="textInput" name="textInput"><br><br>
+
+        <label for="languageSelect">Select language:</label>
+        <select id="languageSelect" name="languageSelect">
+            <option value="hi">Hindi</option>
+            <option value="fr">French</option>
+            <option value="es">Spanish</option>
+        </select><br><br>
+
+        <button type="submit">Translate</button><br><br>
+    </form>
+
+</body>
+</html>

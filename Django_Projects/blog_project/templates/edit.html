@@ -1,0 +1,22 @@
+{% for element in edit_it %}
+    <form action="{% url 'edit' pk=element.id %}" method="post">
+        {% csrf_token %}
+        <div>
+            <label for="">Title:</label><br>
+            <input type="text" id="" name="title" required value="{{ element.title }}"><br>
+        </div>
+        <div>
+            <label for="">Description:</label><br>
+            <textarea id="" name="description" rows="4" cols="50" required>{{ element.description }}</textarea><br>
+        </div>
+        <input type="hidden" name="edit_id" value="{{ element.id }}">
+        <!-- <input type="file" id="image" name="image" accept="image/*" required value="{{ element.image_url }}"><br> -->
+        <div>
+            <input type="submit" value="Save">
+        </div>
+    </form>
+{% endfor %}
+
+
+
+
