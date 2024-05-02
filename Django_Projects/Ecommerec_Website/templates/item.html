@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shopping Cart</title>
+<style>
+    .cart-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+    }
+
+    .cart-item {
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+
+    .cart-item img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .cart-item .title {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .cart-item .price {
+        font-size: 14px;
+    }
+</style>
+</head>
+<body>
+
+<div class="cart-container" enctype="multipart/form-data">
+    {% csrf_token %}
+    {% for info in infos %}
+    <div class="cart-item">
+        <img src="{{ info.image }}" alt="Product Image 1">
+        <div class="title">{{ info.title }}</div>
+        <div class="price">{{ info.price }}</div>
+    </div>
+    {% endfor %}
+</div>
+
+</body>
+</html>
