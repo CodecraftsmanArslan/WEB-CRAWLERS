@@ -1,0 +1,116 @@
+{
+    "Indonesia": {
+        "https://data.demakkab.go.id/dataset/a3b71fbc-21df-4f6e-aba7-0251b2b19297/resource/5f6dd746-e206-4eff-9299-679c2fec938f/download/perusahaan.xlsx":
+            {
+                "name": "",
+                "registration_number":"",
+                "registration_date":"",
+                "status":"",
+                "type":"",
+                "incorporation_date":"",
+                "jurisdiction":"",
+                "jurisdiction_code": "",
+                "industries": "",
+                "tax_number":"",
+                "dissolution_date": "",
+                "inactive_date": "",
+                "crawler_name": "crawlers.custom_crawlers.kyb.indonesia.indonesia_kyb",
+                "country_name": "Indonesia",
+                "meta_detail": {}
+            },
+        "https://data.jakarta.go.id/dataset/0be09038-2624-44cb-a800-ee4097c26770/resource/b794609e-3a6b-4298-bae3-4d734bea6879/download/Data-Perusahaan-Armada-Bus.csv":{
+            "name":"", 
+            "registration_number":"",
+            "registration_date":"",
+            "status":"",
+            "type":"",
+            "incorporation_date":"",
+            "jurisdiction":"",
+            "jurisdiction_code": "",
+            "industries": "",
+            "tax_number":"",
+            "dissolution_date": "",
+            "inactive_date": "",
+            "crawler_name": "crawlers.custom_crawlers.kyb.indonesia.indonesia_kyb",
+            "country_name": "Indonesia",
+            "meta_detail": {
+                "terminal":"",
+                "locality":""
+            }
+        },
+        "https://katalog.data.go.id/datastore/dump/7070deed-44e9-4ccb-814b-256033399219?bom=True":{
+            "name":"",
+            "status":"",
+            "type":"",
+            "registration_number":"",
+            "registration_date":"",
+            "incorporation_date":"",
+            "jurisdiction":"",
+            "jurisdiction_code": "",
+            "industries": "",
+            "tax_number":"",
+            "dissolution_date": "",
+            "inactive_date": "",
+            "crawler_name": "crawlers.custom_crawlers.kyb.indonesia.indonesia_kyb",
+            "country_name": "Indonesia",
+            "meta_detail": {
+                "country":"",
+                "license_number":"",
+                "year":"",
+                "approval_date":"",
+                "total_investment_(US$)":"",
+                "total_investment_(million Rupiah)":"",
+                "LKPM_value_(US$ thousand)":"",
+                "LKPM_value_(million Rupiah)":"",
+                "net_value_(US$ thousand)":"",
+                "net_value_(US$ Million)":"",
+                "net_value_(Rupiah Million)":"",
+                "net_value_(Rupiah Billion)":""
+            },
+            "contacts_detail": [
+                {
+                    "type"   : "phone_number", 
+                    "value" : "",
+                    "meta_detail":{}
+                }
+            ],
+            "addresses_detail": [
+                {
+                    "meta_detail":{},
+                    "description":"",
+                    "address": "",
+                    "type": "general_address"  
+                },
+                {
+                    "meta_detail":{
+                        "project_location":"",
+                        "province":"",
+                        "district":"",
+                        "region":""
+                    },
+                    "description":"",
+                    "address": "",
+                    "type": "project_address"  
+                }
+            ],
+            "additional_detail": [
+                {
+                    "type":"industry_detail", 
+                    "data":[{
+                        "industry_type":"",
+                        "KBLI_code":"",
+                        "sector":"",
+                        "primary_sector":""
+                    }]
+                },
+                {
+                    "type":"employee_detail", 
+                    "data":[{
+                        "overseas_employees":"",
+                        "foreign_employees":""
+                    }]
+                }
+            ]
+        }
+    }
+}

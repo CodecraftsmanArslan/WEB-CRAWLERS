@@ -1,0 +1,3038 @@
+code;name
+111302;corn cultivation
+111303;wheat cultivation
+111399;Cultivation of other cereals not previously specified
+112101;Cultivation of herbaceous cotton
+112102;jute cultivation
+112199;Cultivation of other temporary crop fibers not otherwise specified
+113000;Sugar cane cultivation
+114800;tobacco cultivation
+115600;soybean cultivation
+116401;peanut cultivation
+116402;sunflower cultivation
+116403;Castor bean cultivation
+116499;Cultivation of other temporary crop oilseeds not previously specified
+119901;pineapple cultivation
+119902;garlic cultivation
+119903;Potato cultivation
+119904;onion cultivation
+119905;bean cultivation
+119906;cassava cultivation
+119907;melon cultivation
+119908;watermelon cultivation
+119909;Ground tomato cultivation
+119999;Cultivation of other temporary crop plants not otherwise specified
+121101;Horticulture, except strawberry
+121102;strawberry cultivation
+122900;Cultivation of flowers and ornamental plants
+131800;orange cultivation
+132600;grape growing
+133401;Acai cultivation
+133402;banana cultivation
+133403;cashew cultivation
+133404;Citrus cultivation, except orange
+133405;coconut cultivation
+133406;guarana cultivation
+133407;apple growing
+133408;papaya cultivation
+133409;passion fruit cultivation
+133410;mango cultivation
+133411;peach cultivation
+133499;Cultivation of permanent crop fruits not otherwise specified
+134200;coffee growing
+135100;cacao cultivation
+139301;Indian tea cultivation
+139302;yerba mate cultivation
+139303;Cultivation of black pepper
+139304;Cultivation of spice plants other than black pepper
+139305;oil palm cultivation
+139306;rubber tree cultivation
+139399;Cultivation of other permanent crop plants not previously specified
+141501;Production of certified seeds, except forage for pasture
+141501;Production of certified seeds, except forage for pasture
+141501;Production of certified seeds, except forage for pasture
+141502;Production of certified forage seeds for pasture formation
+142300;Production of seedlings and other forms of plant propagation, certified
+142300;Production of seedlings and other forms of plant propagation, certified
+142300;Production of seedlings and other forms of plant propagation, certified
+151201;Beef cattle breeding
+151202;Cattle breeding for milk
+151203;Cattle raising, except for beef and milk
+152101;buffalo breeding
+152102;equine breeding
+152103;Breeding donkeys and mules
+153901;goat breeding
+153902;Raising sheep, including for wool production
+154700;pig farming
+155501;Breeding of broiler chickens
+155502;Dayold chick production
+155503;Breeding of other chickens, except for cutting
+155504;Poultry farming, except chickens
+155505;egg production
+159801;Beekeeping
+159802;pet breeding
+159803;creation of escargots
+159804;Silkworm breeding
+159899;Breeding of other animals not previously specified
+
+161001;Agricultural pest spraying and control service
+161001;Agricultural pest spraying and control service
+161002;Tree pruning service
+161003;Land preparation, cultivation and harvesting service
+161003;Land preparation, cultivation and harvesting service
+161099;Agricultural support activities not otherwise specified
+162801;Artificial insemination service in animals
+162802;sheep shearing service
+162803;Animal handling service
+162899;Livestock support activities not previously specified
+163600;postharvest activities
+170900;Hunting and related services
+210101;eucalyptus cultivation
+210102;Black wattle cultivation
+210103;pine cultivation
+210104;teak cultivation
+210105;Cultivation of timber species, except eucalyptus, black wattle, pine and teak
+210106;Cultivation of seedlings in forest nurseries
+210107;Wood extraction in planted forests
+210108;Production of charcoal  planted forests
+210108;Production of charcoal  planted forests
+210109;Black wattle bark production  planted forests
+210199;Production of nontimber products not otherwise specified in planted forests
+220901;Logging in native forests
+220902;Production of charcoal  native forests
+220902;Production of charcoal  native forests
+220903;Brazil nut collection in native forests
+220904;Latex collection in native forests
+220905;Heart of palm collection in native forests
+220906;Conservation of native forests
+220999;Collection of nontimber products not otherwise specified in native forests
+230600;Activities to support forestry production
+311601;Saltwater fish fishing
+311602;Fishing for crustaceans and molluscs in salt water
+311603;Collection of other marine products
+311604;Activities to support saltwater fishing
+312401;Freshwater fish fishing
+312402;Fishing for crustaceans and molluscs in fresh water
+312403;Collection of other freshwater aquatic products
+312404;Freshwater fishing support activities
+321301;Fish farming in salt and brackish water
+321302;Raising shrimp in salt and brackish water
+321303;Raising oysters and mussels in salt and brackish water
+321304;Breeding of ornamental fish in salt and brackish water
+321305;Activities to support aquaculture in salt and brackish water
+321399;Aquaculture crops and semicultures in salt and brackish water not otherwise specified
+322101;Freshwater fish farming
+322102;Freshwater shrimp farming
+322103;Breeding oysters and mussels in fresh water
+322104;Freshwater ornamental fish farming
+322105;frog farming
+322106;alligator breeding
+322107;Activities to support freshwater aquaculture
+322199;Freshwater aquaculture crops and semicultures not otherwise specified
+;​
+Section B  Extractive Industries;​
+500301;Mineral coal extraction
+500302;Mineral coal processing
+600001;Oil and natural gas extraction
+600002;Shale extraction and processing
+600003;Extraction and processing of bituminous sands
+710301;iron ore extraction
+710302;Pelletizing, sintering and other iron ore processing
+721901;aluminum ore extraction
+721902;Aluminum ore beneficiation
+722701;tin ore extraction
+722702;Tin ore beneficiation
+723501;Manganese ore extraction
+723502;Processing of manganese ore
+724301;Extraction of precious metal ore
+724302;Processing of precious metal ore
+725100;Extraction of radioactive minerals
+729401;Extraction of niobium and titanium ores
+729402;tungsten ore extraction
+729403;Nickel ore extraction
+729404;Extraction of copper, lead, zinc ores and other nonferrous metallic minerals not previously specified
+729405;Beneficiation of copper, lead, zinc ores and other nonferrous metallic minerals not previously specified
+810001;Extraction of slate and associated processing
+810002;Granite extraction and associated processing
+810003;Marble extraction and associated processing
+810004;Limestone and dolomite extraction and associated processing
+810005;Gypsum and kaolin extraction
+810006;Extraction of sand, gravel or gravel and associated processing
+810007;Clay extraction and associated processing
+810008;Extraction of gravel and associated processing
+810009;Basalt extraction and associated processing
+810010;Processing of gypsum and kaolin associated with extraction
+810099;Extraction and crushing of stones and other materials for construction and associated processing
+891600;Extraction of minerals for the manufacture of manure, fertilizers and other chemical products
+892401;sea ​​salt extraction
+892402;rock salt extraction
+892403;Refining and other salt treatments
+893200;Gem extraction (precious and semiprecious stones)
+899101;graphite extraction
+899102;quartz extraction
+899103;asbestos extraction
+899199;Extraction of other nonmetallic minerals not previously specified
+899199;Extraction of other nonmetallic minerals not previously specified
+910600;Activities to support the extraction of oil and natural gas
+990401;Activities to support the extraction of iron ore
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990402;Activities to support the extraction of nonferrous metallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+990403;Activities to support the extraction of nonmetallic minerals
+1011201;Refrigerator  cattle slaughter
+1011202;Refrigerator  equine slaughter
+1011203;Slaughterhouse  slaughter of sheep and goats
+1011204;Refrigerator  buffalo slaughter
+1011205;Slaughterhouse  slaughter of cattle under contract, except slaughter of pigs
+1012101;poultry slaughter
+1012102;Slaughter of small animals
+1012103;Refrigerator  swine slaughter
+1012104;Slaughterhouse  slaughter of pigs under contract
+1013901;Meat product manufacturing
+1013902;Preparation of slaughter byproducts
+1020101;Preservation of fish, crustaceans and molluscs
+1020102;Manufacture of canned fish, crustaceans and molluscs
+1031700;Manufacture of canned fruit
+1032501;Canned heart of palm manufacturing
+1032599;Manufacture of canned vegetables and other vegetables, except hearts of palm
+1033301;Manufacture of fruit, vegetable and vegetable juice concentrates
+1033302;Manufacture of fruit, vegetable and vegetable juices, except concentrates
+1033302;Manufacture of fruit, vegetable and vegetable juices, except concentrates
+1041400;Manufacture of crude vegetable oils other than corn oil
+1042200;Manufacture of refined vegetable oils, except corn oil
+1043100;Manufacture of margarine and other vegetable fats and nonedible animal oils
+1051100;milk preparation
+1052000;dairy manufacturing
+1053800;Manufacture of ice cream and other edible ices
+1061901;rice processing
+1061902;Rice product manufacturing
+1062700;Wheat milling and manufacturing of derivatives
+1063500;Manufacture of cassava flour and derivatives
+1064300;Manufacture of corn flour and derivatives, except corn oils
+1065101;Manufacture of vegetable starches and starches
+1065102;Raw corn oil manufacturing
+1065103;Manufacture of refined corn oil
+1066000;Animal feed manufacturing
+1069400;Milling and manufacture of products of plant origin not otherwise specified
+1071600;Raw sugar manufacturing
+1072401;Manufacture of refined cane sugar
+1072402;Production of cereal sugar (dextrose) and beet sugar
+1081301;coffee processing
+1081302;Coffee roasting and grinding
+1082100;Manufacture of coffee products
+1091100;Bakery products manufacturing
+1092900;Manufacture of cookies and crackers
+1093701;Manufacture of cocoa products and chocolates
+1093702;Manufacture of crystallized fruits, candies and the like
+1094500;Manufacture of pasta
+1095300;Manufacture of spices, sauces, seasonings and condiments
+1096100;Food and readytoeat manufacturing
+1099601;manufacture of vinegars
+1099602;Manufacture of food powders
+1099603;Yeast and yeast manufacturing
+1099605;Manufacture of infusion products (tea, mate, etc.)
+1099606;Manufacture of natural and artificial sweeteners
+1099699;Manufacture of other food products not otherwise specified
+1099699;Manufacture of other food products not otherwise specified
+1111901;Manufacture of sugar cane brandy
+1111902;Manufacture of other spirits and distilled beverages
+1112700;wine making
+1113501;Manufacture of malt, including malt whiskey
+1113502;Beer and draft beer production
+1121600;Manufacture of bottled water
+1122401;soft drink manufacturing
+1122402;Manufacture of mate tea and other readytodrink teas
+1122403;Manufacture of soft drinks, syrups and powders for soft drinks, except fruit drinks
+1122499;Manufacture of other nonalcoholic beverages not otherwise specified
+1210700;Industrial tobacco processing
+1220401;cigarette manufacturing
+1220402;Manufacture of cigarillos and cigars
+1220403;Manufacture of cigarette filters
+1220499;Manufacture of other tobacco products, except cigarettes, cigarillos and cigars
+1321900;Cotton yarn weaving
+1321900;Cotton yarn weaving
+1321900;Cotton yarn weaving
+1322700;Weaving of yarns of natural textile fibers other than cotton
+1322700;Weaving of yarns of natural textile fibers other than cotton
+1322700;Weaving of yarns of natural textile fibers other than cotton
+1323500;Weaving of artificial and synthetic fiber yarns
+1323500;Weaving of artificial and synthetic fiber yarns
+1323500;Weaving of artificial and synthetic fiber yarns
+1330800;Manufacture of knitted fabrics
+1340501;Printing and texturing in yarns, fabrics, textile artifacts and garments
+1340502;Bleaching, dyeing and twisting of yarns, fabrics, textiles and garments
+1340599;Other finishing services for yarns, fabrics, textile artifacts and garments
+1351100;Manufacture of textile artifacts for domestic use
+1352900;Manufacture of tapestry artifacts
+1353700;Manufacture of cordage artifacts
+1354500;Manufacture of special fabrics, including artifacts
+1359600;Manufacture of other textile products not previously specified
+1411801;Making of underwear
+1411801;Making of underwear
+1411802;underwear faction
+1412601;Manufacture of garments, except underwear and madetomeasure clothing
+1412601;Manufacture of garments, except underwear and madetomeasure clothing
+1412602;Tailormade manufacturing of garments, except underwear
+1412602;Tailormade manufacturing of garments, except underwear
+1412603;Faction of garments except underwear
+1413401;Manufacture of professional clothing, except madetomeasure
+1413402;Custommade professional clothing
+1413403;Professional clothing faction
+1414200;Manufacture of clothing accessories, except for safety and security
+1421500;sock making
+1422300;Manufacture of clothing articles, produced in knitting and knitting, except socks
+1510600;Tanning and other leather preparations
+1510600;Tanning and other leather preparations
+1521100;Manufacture of travel items, handbags and the like from any material
+1529700;Manufacture of leather goods not otherwise specified
+1531901;Leather shoe manufacturing
+1531902;Finishing of leather shoes under contract
+1532700;Manufacture of sneakers from any material
+1533500;Manufacture of shoes from synthetic material
+1539400;Manufacture of footwear from materials not otherwise specified
+1540800;Manufacture of parts for footwear, of any material
+1540800;Manufacture of parts for footwear, of any material
+1540800;Manufacture of parts for footwear, of any material
+1610201;Sawmills with wood splitting
+1610202;Sawmills without splitting wood
+1621800;Manufacture of laminated wood and plywood, pressed and agglomerated wood sheets
+1622601;Manufacture of prefabricated wooden houses
+1622602;Manufacture of wooden frames and wooden parts for industrial and commercial installations
+1622699;Manufacture of other carpentry articles for construction
+1623400;Manufacture of cooperage artifacts and wooden packaging
+1629301;Manufacture of various wooden artifacts, except furniture
+1629302;Manufacture of various articles of cork, bamboo, straw, wicker and other braided materials, except furniture
+1710900;Manufacture of cellulose and other pulps for papermaking
+1721400;paper making
+1722200;Cardboard and cardboard manufacturing
+1731100;paper packaging manufacturing
+1732000;Manufacture of cardboard and cardboard packaging
+1733800;Manufacture of corrugated cardboard sheets and packaging
+1741901;Continuous forms manufacturing
+1741902;Manufacture of paper, paperboard, paperboard and corrugated board products for commercial and office use, except continuous form
+1741902;Manufacture of paper, paperboard, paperboard and corrugated board products for commercial and office use, except continuous form
+1742701;Manufacture of disposable diapers
+1742702;Manufacture of sanitary napkins
+1742799;Manufacture of paper products for domestic and hygienicsanitary use not otherwise specified
+1749400;Manufacture of cellulose pulp, paper, paperboard, paperboard and corrugated board products not otherwise specified
+1811301;newspaper printing
+1811302;Printing of books, magazines and other periodicals
+1812100;Security material printing
+1813001;Printing of material for advertising use
+1813099;Printing material for other uses
+1813099;Printing material for other uses
+1821100;prepress services
+1822900;Graphic finishing services
+1822900;Graphic finishing services
+1822900;Graphic finishing services
+1830001;Sound reproduction on any support
+1830002;Video playback on any media
+1830003;Software reproduction on any media
+1910100;coke plants
+1921700;Manufacture of petroleum refining products
+1922501;Fuel formulation
+1922502;Rerefining of lubricating oils
+1922599;Manufacture of other petroleum products, except refining products
+1931400;alcohol manufacturing
+1932200;Manufacture of biofuels, except alcohol
+2011800;Chloralkali manufacturing
+2012600;Manufacture of intermediates for fertilizers
+2013400;Manure and fertilizer manufacturing
+2014200;Industrial gas manufacturing
+2019301;Elaboration of nuclear fuels
+2019399;Manufacture of other inorganic chemicals not otherwise specified
+2021500;Manufacturing of basic petrochemicals
+2022300;Manufacture of intermediates for plasticizers, resins and fibers
+2029100;Manufacture of organic chemicals not otherwise specified
+2031200;Manufacture of thermoplastic resins
+2032100;Manufacture of thermosetting resins
+2033900;manufacturing of elastomers
+2040100;Manufacture of artificial and synthetic fibers
+2040100;Manufacture of artificial and synthetic fibers
+2051700;Manufacture of agricultural pesticides
+2051700;Manufacture of agricultural pesticides
+2051700;Manufacture of agricultural pesticides
+2051700;Manufacture of agricultural pesticides
+2052500;Manufacture of household disinfectants
+2052500;Manufacture of household disinfectants
+2052500;Manufacture of household disinfectants
+2052500;Manufacture of household disinfectants
+2061400;Manufacture of synthetic soaps and detergents
+2062200;Manufacture of cleaning and polishing products
+2063100;Manufacture of cosmetics, perfumery and personal care products
+2063100;Manufacture of cosmetics, perfumery and personal care products
+2071100;Manufacture of paints, varnishes, enamels and lacquers
+2072000;Manufacturing of printing inks
+2073800;Manufacture of waterproofing agents, solvents and related products
+2091600;Manufacture of adhesives and sealants
+2092401;Manufacture of gunpowder, explosives and detonating
+2092402;Manufacture of pyrotechnic articles
+2092403;Manufacture of safety matches
+2093200;Manufacture of additives for industrial use
+2094100;manufacture of catalysts
+2099101;Manufacture of plates, films, papers and other materials and chemicals for photography
+2099199;Manufacture of other chemicals not previously specified
+2110600;Manufacture of pharmaceutical products
+2121101;Manufacture of allopathic medicines for human use
+2121102;Manufacture of homeopathic medicines for human use
+2121103;Manufacture of herbal medicines for human use
+2122000;Manufacture of medicines for veterinary use
+2123800;Manufacture of pharmaceutical preparations
+2123800;Manufacture of pharmaceutical preparations
+2211100;Manufacture of tires and inner tubes
+2212900;Refurbishment of used tires
+2219600;Manufacture of rubber products not otherwise specified
+2221800;Manufacture of flat and tubular laminates of plastic material
+2222600;Manufacture of plastic material packaging
+2223400;Manufacture of pipes and fittings of plastic material for use in construction
+2229301;Manufacture of plastic artifacts for personal and domestic use
+2229302;Manufacture of plastic artifacts for industrial uses
+2229303;Manufacture of plastic artifacts for use in construction, except tubes and fittings
+2229399;Manufacture of plastic artifacts for other uses not previously specified
+2229399;Manufacture of plastic artifacts for other uses not previously specified
+2311700;Manufacture of flat and safety glass
+2312500;Glass packaging manufacturing
+2319200;Glassware manufacturing
+2320600;cement manufacturing
+2330301;Manufacture of precast reinforced concrete structures, in series and to order
+2330302;Manufacture of cement artifacts for use in construction
+2330303;Manufacture of fiber cement artifacts for use in construction
+2330304;Manufacture of precast concrete houses
+2330305;Preparation of concrete mass and mortar for construction
+2330399;Manufacture of other artifacts and products made of concrete, cement, fiber cement, plaster and similar materials
+2341900;Manufacture of refractory ceramic products
+2342701;Manufacture of tiles and floors
+2342702;Manufacture of pottery and baked clay artifacts for use in construction, except tiles and floors
+2349401;Manufacture of ceramic sanitary material
+2349499;Manufacture of nonrefractory ceramic products not otherwise specified
+2391501;Stone crushing, except associated with extraction
+2391502;Stone rigging for construction, except associated with extraction
+2391503;Fitting slabs and carrying out work on marble, granite, slate and other stones
+2392300;Manufacture of lime and gypsum
+2399101;Decorating, cutting, engraving, glazing and other work in ceramics, crockery, glass and crystal
+2399199;Manufacture of other nonmetallic mineral products not otherwise specified
+2411300;Pig iron production
+2412100;production of ferroalloys
+2421100;Production of steel semifinished products
+2422901;Production of carbon steel flat rolled products, coated or uncoated
+2422902;Production of flat rolled special steels
+2423701;Production of seamless steel tubes
+2423702;Production of long steel products, except tubes
+2424501;Steel wire production
+2424502;Production of rerolled, drawn and profiled steel, except wires
+2431800;Production of seamed steel tubes
+2439300;Production of other iron and steel tubes
+2441501;Production of aluminum and its alloys in primary forms
+2441502;Production of aluminum laminates
+2442300;Metallurgy of precious metals
+2443100;copper metallurgy
+2449101;Production of zinc in primary forms
+2449102;Production of zinc laminates
+2449103;Production of solders and anodes for electroplating
+2449199;Metallurgy of other nonferrous metals and their alloys not otherwise specified
+2449199;Metallurgy of other nonferrous metals and their alloys not otherwise specified
+2451200;Iron and steel foundry
+2452100;Casting of nonferrous metals and their alloys
+2511000;Manufacture of metallic structures
+2512800;Manufacture of metal frames
+2513600;Manufacture of heavy boiler works
+2521700;Manufacture of tanks, metallic reservoirs and boilers for central heating
+2522500;Manufacture of steam generating boilers, except for central heating and for vehicles
+2531401;Production of steel forgings
+2531402;Production of nonferrous metal forgings and their alloys
+2532201;Production of stamped metal artifacts
+2532202;powder metallurgy
+2539000;Machining, welding, treatment and coating services for metals
+2541100;Manufacture of cutlery items
+2542000;Manufacture of locksmith articles, except frames
+2543800;tool making
+2543800;tool making
+2550101;Manufacture of heavy war equipment, except military combat vehicles
+2550102;Manufacture of firearms and ammunition
+2591800;Manufacture of metal packaging
+2592601;Manufacture of standardized metal drawn products
+2592602;Manufacture of drawn metal products, except standardized
+2593400;Manufacture of metal articles for domestic and personal use
+2599301;Services for the manufacture of metal frames for construction
+2599399;Manufacture of other metal products not otherwise specified
+2610800;Electronic component manufacturing
+2621300;IT equipment manufacturing
+2622100;Manufacture of peripherals for computer equipment
+2631100;Manufacture of communication transmitter equipment, parts and accessories
+2632900;Manufacture of telephone sets and other communication equipment, parts and accessories
+2632900;Manufacture of telephone sets and other communication equipment, parts and accessories
+2640000;Manufacture of equipment for receiving, reproducing, recording and amplifying audio and video
+2651500;Manufacture of measurement, test and control apparatus and equipment
+2651500;Manufacture of measurement, test and control apparatus and equipment
+2652300;Manufacture of chronometers and watches
+2660400;Manufacture of electromedical and electrotherapeutic devices and irradiation equipment
+2660400;Manufacture of electromedical and electrotherapeutic devices and irradiation equipment
+2670101;Manufacture of optical equipment and instruments, parts and accessories
+2670102;Manufacture of photographic and cinematographic apparatus, parts and accessories
+2680900;Manufacture of virgin, magnetic and optical media
+2710401;Manufacture of direct and alternating current generators, parts and accessories
+2710402;Manufacture of transformers, inductors, converters, synchronizers and the like, parts and accessories
+2710403;Manufacture of electric motors, parts and accessories
+2721000;Manufacture of cells, batteries and electric accumulators, except for motor vehicles
+2722801;Manufacture of batteries and accumulators for motor vehicles
+2722802;Reconditioning of batteries and accumulators for motor vehicles
+2731700;Manufacture of apparatus and equipment for distribution and control of electrical energy
+2732500;Manufacture of electrical material for installations in consumer circuits
+2733300;Manufacture of wires, cables and insulated electrical conductors
+2733300;Manufacture of wires, cables and insulated electrical conductors
+2740601;light bulb manufacturing
+2740602;Manufacture of luminaires and other lighting equipment
+2751100;Manufacture of stoves, refrigerators and washing and drying machines for domestic use, parts and accessories
+2759701;Manufacture of electrical appliances for personal use, parts and accessories
+2759799;Manufacture of other not otherwise specified household appliances, parts and accessories
+2790201;Manufacture of electrodes, contacts and other articles of carbon and graphite for electrical use, electromagnets and insulators
+2790202;Manufacture of signaling and alarm equipment
+2790299;Manufacture of other electrical equipment and appliances not otherwise specified
+2790299;Manufacture of other electrical equipment and appliances not otherwise specified
+2811900;Manufacture of engines and turbines, parts and accessories, except for aircraft and road vehicles
+2812700;Manufacture of hydraulic and pneumatic equipment, parts and accessories, except valves
+2813500;Manufacture of valves, valves and similar devices, parts and accessories
+2814301;Manufacture of compressors for industrial use, parts and accessories
+2814302;Manufacture of compressors for nonindustrial use, parts and accessories
+2815101;Manufacture of bearings for industrial purposes
+2815102;Manufacture of transmission equipment for industrial purposes, except bearings
+2821601;Manufacture of industrial furnaces, nonelectric appliances and equipment for thermal installations, parts and accessories
+2821602;Manufacture of electric stoves and ovens for industrial purposes, parts and accessories
+2822401;Manufacture of machinery, equipment and devices for transporting and lifting people, parts and accessories
+2822402;Manufacture of machinery, equipment and apparatus for transporting and lifting loads, parts and accessories
+2823200;Manufacture of refrigeration and ventilation machines and equipment for industrial and commercial use, parts and accessories
+2824101;Manufacture of air conditioning apparatus and equipment for industrial use
+2824102;Manufacture of air conditioning apparatus and equipment for nonindustrial use
+2825900;Manufacture of machines and equipment for basic and environmental sanitation, parts and accessories
+2829101;Manufacture of typewriters, calculators and other nonelectronic office equipment, parts and accessories
+2829101;Manufacture of typewriters, calculators and other nonelectronic office equipment, parts and accessories
+2829199;Manufacture of other machines and general purpose equipment not previously specified, parts and accessories
+2829199;Manufacture of other machines and general purpose equipment not previously specified, parts and accessories
+2831300;Manufacture of agricultural tractors, parts and accessories
+2832100;Manufacture of agricultural irrigation equipment, parts and accessories
+2833000;Manufacture of machinery and equipment for agriculture and livestock, parts and accessories, except for irrigation
+2840200;Manufacture of machine tools, parts and accessories
+2851800;Manufacture of machinery and equipment for prospecting and extracting oil, parts and accessories
+2852600;Manufacture of other machinery and equipment for use in mineral extraction, parts and accessories, except for oil extraction
+2853400;Manufacture of tractors, parts and accessories, except agricultural
+2854200;Manufacture of machinery and equipment for earthmoving, paving and construction, parts and accessories, except tractors
+2854200;Manufacture of machinery and equipment for earthmoving, paving and construction, parts and accessories, except tractors
+2861500;Manufacture of machines for the metallurgical industry, parts and accessories, except machine tools
+2862300;Manufacture of machinery and equipment for the food, beverage and tobacco industries, parts and accessories
+2863100;Manufacture of machinery and equipment for the textile industry, parts and accessories
+2864000;Manufacture of machinery and equipment for the clothing, leather and footwear industries, parts and accessories
+2865800;Manufacture of machinery and equipment for the pulp, paper and cardboard industries and artifacts, parts and accessories
+2866600;Manufacture of machinery and equipment for the plastics industry, parts and accessories
+2869100;Manufacture of machines and equipment for specific industrial use not previously specified, parts and accessories
+2910701;Manufacture of cars, vans and SUVs
+2910702;Manufacture of chassis with engine for cars, vans and SUVs
+2910703;Manufacture of engines for cars, vans and SUVs
+2920401;Truck and bus manufacturing
+2920402;Manufacture of engines for trucks and buses
+2930101;Manufacture of cabins, bodies and trailers for trucks
+2930102;Manufacture of bus bodies
+2930103;Manufacture of cabins, bodies and trailers for other motor vehicles, except trucks and buses
+2941700;Manufacture of parts and accessories for the engine system of motor vehicles
+2942500;Manufacture of parts and accessories for the gear and transmission systems of motor vehicles
+2943300;Manufacture of parts and accessories for the brake system of motor vehicles
+2944100;Manufacture of parts and accessories for the steering and suspension system of motor vehicles
+2945000;Manufacture of electrical and electronic material for motor vehicles, except batteries
+2949201;Manufacture of seats and upholstery for motor vehicles
+2949299;Manufacture of other parts and accessories for motor vehicles not previously specified
+2950600;Reconditioning and recovery of engines for motor vehicles
+3011301;Construction of large vessels
+3011302;Construction of vessels for commercial use and for special uses, except for large vessels
+3012100;Construction of boats for sport and leisure
+3031800;Manufacture of locomotives, wagons and other rolling stock
+3032600;Manufacture of parts and accessories for railway vehicles
+3041500;aircraft manufacturing
+3042300;Manufacture of turbines, engines and other components and parts for aircraft
+3050400;Manufacture of military combat vehicles
+3091100;Manufacture of motorcycles, parts and accessories
+3092000;Manufacture of nonmotorized bicycles and tricycles, parts and accessories
+3092000;Manufacture of nonmotorized bicycles and tricycles, parts and accessories
+3099700;Manufacture of transport equipment not otherwise specified
+3101200;Manufacture of furniture with a predominance of wood
+3102100;Manufacture of furniture with a predominance of metal
+3102100;Manufacture of furniture with a predominance of metal
+3103900;Manufacture of furniture from other materials, except wood and metal
+3104700;mattress manufacturing
+3211601;gem cutting
+3211602;Manufacture of jewelery and goldsmith artifacts
+3211603;Minting of coins and medals
+3212400;Manufacture of costume jewelery and similar artifacts
+3220500;Manufacture of musical instruments, parts and accessories
+3230200;Manufacture of artifacts for fishing and sport
+3240001;Electronic game manufacturing
+3240002;Manufacture of pool tables, pool tables and accessories not associated with the lease
+3240003;Manufacture of pool tables, pool tables and accessories associated with the lease
+3240099;Manufacture of other toys and recreational games not otherwise specified
+3250701;Manufacture of nonelectronic instruments and utensils for medical, surgical, dental and laboratory use
+3250701;Manufacture of nonelectronic instruments and utensils for medical, surgical, dental and laboratory use
+3250702;Manufacture of furniture for medical, surgical, dental and laboratory use
+3250703;Manufacture of devices and utensils for the correction of physical defects and orthopedic devices in general to order
+3250704;Manufacture of devices and utensils for correcting physical defects and orthopedic devices in general, except to order
+3250705;Manufacture of materials for medicine and dentistry
+3250706;Dental prosthesis services
+3250707;Manufacture of optical articles
+3250707;Manufacture of optical articles
+3250707;Manufacture of optical articles
+3250708;Manufacture of nonwoven fabric artifacts for dentalmedicalhospital use
+3291400;Manufacture of brushes, brushes and brooms
+3292201;Manufacture of protective and safety and fire resistant clothing
+3292201;Manufacture of protective and safety and fire resistant clothing
+3292202;Manufacture of equipment and accessories for personal and professional safety
+3292202;Manufacture of equipment and accessories for personal and professional safety
+3292202;Manufacture of equipment and accessories for personal and professional safety
+3292202;Manufacture of equipment and accessories for personal and professional safety
+3299001;Manufacture of umbrellas and similar
+3299002;Manufacture of pens, pencils and other office supplies
+3299003;Manufacture of letters, signs and plates of any material, except luminous ones
+3299003;Manufacture of letters, signs and plates of any material, except luminous ones
+3299004;Manufacture of illuminated panels and signs
+3299005;Manufacturing of trimmings for sewing
+3299099;Manufacture of miscellaneous products not otherwise specified
+3311200;Maintenance and repair of tanks, metallic reservoirs and boilers, except for vehicles
+3311200;Maintenance and repair of tanks, metallic reservoirs and boilers, except for vehicles
+3312102;Maintenance and repair of measuring, testing and control apparatus and instruments
+3312102;Maintenance and repair of measuring, testing and control apparatus and instruments
+3312103;Maintenance and repair of electromedical and electrotherapeutic devices and irradiation equipment
+3312104;Maintenance and repair of optical equipment and instruments
+3313901;Maintenance and repair of generators, transformers and electric motors
+3313901;Maintenance and repair of generators, transformers and electric motors
+3313901;Maintenance and repair of generators, transformers and electric motors
+3313902;Maintenance and repair of batteries and electric accumulators, except for vehicles
+3313999;Maintenance and repair of electrical machines, devices and materials not otherwise specified
+3314701;Maintenance and repair of nonelectric prime movers
+3314702;Maintenance and repair of hydraulic and pneumatic equipment, except valves
+3314703;Maintenance and repair of industrial valves
+3314704;Compressor maintenance and repair
+3314705;Maintenance and repair of transmission equipment for industrial purposes
+3314706;Maintenance and repair of machines, apparatus and equipment for thermal installations
+3314706;Maintenance and repair of machines, apparatus and equipment for thermal installations
+3314707;Maintenance and repair of refrigeration and ventilation machines and apparatus for industrial and commercial use
+3314708;Maintenance and repair of machines, equipment and apparatus for transporting and lifting loads
+3314708;Maintenance and repair of machines, equipment and apparatus for transporting and lifting loads
+3314709;Maintenance and repair of typewriters, calculators and other nonelectronic office equipment
+3314710;Maintenance and repair of machines and equipment for general use not previously specified
+3314711;Maintenance and repair of machinery and equipment for agriculture and livestock
+3314712;Maintenance and repair of agricultural tractors
+3314713;Machine tool maintenance and repair
+3314714;Maintenance and repair of machinery and equipment for prospecting and extracting oil
+3314715;Maintenance and repair of machinery and equipment for use in mineral extraction, except for petroleum extraction
+3314716;Maintenance and repair of tractors, except agricultural
+3314716;Maintenance and repair of tractors, except agricultural
+3314717;Maintenance and repair of earthmoving, paving and construction machinery and equipment, except tractors
+3314717;Maintenance and repair of earthmoving, paving and construction machinery and equipment, except tractors
+3314718;Maintenance and repair of machines for the metallurgical industry, except machine tools
+3314719;Maintenance and repair of machinery and equipment for the food, beverage and tobacco industries
+3314720;Maintenance and repair of machinery and equipment for the textile, clothing, leather and footwear industry
+3314720;Maintenance and repair of machinery and equipment for the textile, clothing, leather and footwear industry
+3314721;Maintenance and repair of machines and devices for the pulp, paper and cardboard industry and artifacts
+3314722;Maintenance and repair of machinery and equipment for the plastics industry
+3314799;Maintenance and repair of other machinery and equipment for industrial uses not otherwise specified
+3315500;Maintenance and repair of railway vehicles
+3316301;Aircraft maintenance and repair, except runway maintenance
+3316302;Aircraft maintenance on the runway
+3317101;Maintenance and repair of vessels and floating structures
+3317101;Maintenance and repair of vessels and floating structures
+3317101;Maintenance and repair of vessels and floating structures
+3317102;Maintenance and repair of boats for sport and leisure
+3319800;Maintenance and repair of equipment and products not previously specified
+3319800;Maintenance and repair of equipment and products not previously specified
+3319800;Maintenance and repair of equipment and products not previously specified
+3319800;Maintenance and repair of equipment and products not previously specified
+3319800;Maintenance and repair of equipment and products not previously specified
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3321000;Installation of industrial machinery and equipment
+3329501;Furniture assembly services of any material
+3329501;Furniture assembly services of any material
+3329501;Furniture assembly services of any material
+3329599;Installation of other equipment not previously specified
+3511500;Electric power generation
+3512300;Electric power transmission
+3513100;Wholesale of electricity
+3514000;Electricity distribution
+3520401;Gas production, natural gas processing
+3520402;Distribution of gaseous fuels by urban networks
+3530100;Production and distribution of steam, hot water and air conditioning
+3600601;Collection, treatment and distribution of water
+3600602;Water distribution by trucks
+3701100;Management of sewage networks
+3702900;Sewagerelated activities, except network management
+3811400;Collection of nonhazardous waste
+3811400;Collection of nonhazardous waste
+3812200;Hazardous waste collection
+3812200;Hazardous waste collection
+3821100;Treatment and disposal of nonhazardous waste
+3821100;Treatment and disposal of nonhazardous waste
+3822000;Treatment and disposal of hazardous waste
+3822000;Treatment and disposal of hazardous waste
+3831901;Aluminum scrap recovery
+3831999;Recovery of metallic materials, except aluminum
+3832700;Recovery of plastic materials
+3839401;composting plants
+3839499;Recovery of materials not previously specified
+3900500;Decontamination and other waste management services
+4110700;Incorporation of real estate projects
+4120400;construction of buildings
+4211101;Construction of roads and railways
+4211102;Painting for signs on highways and airports
+4212000;Construction of special works of art
+4213800;Urbanization works  streets, squares and sidewalks
+4221901;Construction of dams and dams for electricity generation
+4221902;Construction of stations and electricity distribution networks
+4221903;Maintenance of electricity distribution networks
+4221904;Construction of stations and telecommunications networks
+4221905;Maintenance of stations and telecommunications networks
+4222701;Construction of water supply networks, sewage collection and related constructions, except irrigation works
+4222702;irrigation works
+4223500;Construction of pipeline transport networks, except for water and sewage
+4291000;Port, maritime and river works
+4292801;Assembly of metal structures
+4292802;Industrial assembly works
+4299501;Construction of sports and recreational facilities
+4299599;Other civil engineering works not previously specified
+4311801;Demolition of buildings and other structures
+4311801;Demolition of buildings and other structures
+4311802;Site preparation and land clearing
+4312600;Drilling and soundings
+4313400;Earthworks
+4313400;Earthworks
+4313400;Earthworks
+4319300;Land preparation services not otherwise specified
+4319300;Land preparation services not otherwise specified
+4321500;Electrical installation and maintenance
+4322301;Plumbing, sanitary and gas installations
+4322302;Installation and maintenance of central air conditioning, ventilation and refrigeration systems
+4322303;Fire prevention system installations
+4329101;Installation of advertising panels
+4329102;Installation of equipment for maritime, river and lake navigation guidance
+4329103;Installation, maintenance and repair of elevators, escalators and moving walkways, except for our own manufacture
+4329104;Assembly and installation of lighting and signaling systems and equipment on public roads, ports and airports
+4329105;Thermal, acoustic or vibration treatments
+4329199;Other installation works in buildings not previously specified
+4330401;Waterproofing in civil engineering works
+4330402;Installation of doors, windows, ceilings, partitions and builtin cabinets of any material
+4330403;Plaster and stucco finishing works
+4330404;Building painting services in general
+4330404;Building painting services in general
+4330405;Application of coatings and resins indoors and outdoors
+4330405;Application of coatings and resins indoors and outdoors
+4330499;Other construction finishing works
+4330499;Other construction finishing works
+4391600;foundation works
+4391600;foundation works
+4399101;construction management
+4399102;Assembly and disassembly of scaffolding and other temporary structures
+4399103;masonry works
+4399104;Operation services and supply of equipment for transporting and lifting loads and people for use in construction sites
+4399105;Drilling and construction of water wells
+4399199;Specialized construction services not otherwise specified
+4399199;Specialized construction services not otherwise specified
+4399199;Specialized construction services not otherwise specified
+4511101;Retail trade of new cars, vans and SUVs
+4511102;Retail sale of used cars, vans and SUVs
+4511103;Wholesale of new and used cars, vans and SUVs
+4511104;Wholesale of new and used trucks
+4511105;Wholesale of new and used trailers and semitrailers
+4511106;Wholesale of new and used buses and minibuses
+4512901;Sales representatives and agents of the trade of motor vehicles
+4512902;Trade on consignment of motor vehicles
+4520001;Motor vehicle maintenance and repair services
+4520001;Motor vehicle maintenance and repair services
+4520002;Bodywork or bodywork and painting services for motor vehicles
+4520002;Bodywork or bodywork and painting services for motor vehicles
+4520003;Electrical maintenance and repair services for motor vehicles
+4520003;Electrical maintenance and repair services for motor vehicles
+4520004;Automotive alignment and balancing services
+4520004;Automotive alignment and balancing services
+4520005;Car washing, lubrication and polishing services
+4520006;Tire repair services for motor vehicles
+4520007;Installation, maintenance and repair services for accessories for motor vehicles
+4530701;Wholesale of new parts and accessories for motor vehicles
+4530702;Wholesale of tires and inner tubes
+4530703;Retail sale of new parts and accessories for motor vehicles
+4530704;Retail sale of used parts and accessories for motor vehicles
+4530705;Retail sale of tires and inner tubes
+4530706;Sales representatives and sales agents for new and used parts and accessories for motor vehicles
+4541201;Wholesale of motorcycles and scooters
+4541202;Wholesale trade of parts and accessories for motorcycles and scooters
+4541203;Retail sale of new motorcycles and scooters
+4541204;Retail sale of used motorcycles and scooters
+4541205;Retail sale of parts and accessories for motorcycles and scooters
+4542101;Commercial representatives and agents for the sale of motorcycles and scooters, parts and accessories
+4542102;Trade on consignment of motorcycles and scooters
+4543900;Maintenance and repair of motorcycles and scooters
+4611700;Sales representatives and agents in the trade of agricultural raw materials and live animals
+4612500;Sales representatives and agents in the trade of fuels, minerals, steel products and chemicals
+4613300;Sales representatives and agents in the wood, construction material and hardware trade
+4614100;Commercial representatives and agents in the trade of machinery, equipment, vessels and aircraft
+4615000;Sales representatives and agents for the sale of household appliances, furniture and household articles
+4616800;Sales representatives and agents in the textile, clothing, footwear and travel goods trade
+4617600;Sales representatives and agents in the trade of food products, beverages and tobacco
+4618401;Sales representatives and agents in the trade of medicines, cosmetics and perfumery products
+4618402;Sales representatives and agents in the trade of instruments and dentalmedicalhospital materials
+4618403;Sales representatives and agents of the trade of newspapers, magazines and other publications
+4618499;Other commercial representatives and agents of the trade specialized in products not previously specified
+4619200;Commercial representatives and agents of the trade of goods in general, nonspecialized
+4621400;Wholesale coffee beans
+4622200;Soybean wholesaler
+4623101;Wholesale of live animals
+4623101;Wholesale of live animals
+4623101;Wholesale of live animals
+4623101;Wholesale of live animals
+4623101;Wholesale of live animals
+4623102;Wholesale trade of hides, wool, skins and other nonedible byproducts of animal origin
+4623103;cotton wholesale trade
+4623104;Wholesale trade of unprocessed leaf tobacco
+4623105;cocoa wholesale trade
+4623106;Wholesale trade of seeds, flowers, plants and grasses
+4623107;sisal wholesale trade
+4623108;Wholesale trade of agricultural raw materials with fractionation and associated packaging activity
+4623109;Animal feed wholesaler
+4623109;Animal feed wholesaler
+4623199;Wholesale trade of agricultural raw materials not otherwise specified
+4631100;Wholesale of milk and dairy products
+4632001;Wholesale trade of processed cereals and legumes
+4632002;Wholesale trade of flours, starches and starches
+4632003;Wholesale trade of processed cereals and legumes, flours, starches, with associated fractionation and packaging activity
+4633801;Wholesale trade of fruits, vegetables, roots, tubers, vegetables and fresh vegetables
+4633802;Wholesale of live poultry and eggs
+4633803;Wholesale of rabbits and other small live animals for food
+4634601;Wholesale trade of beef and pork and derivatives
+4634602;Wholesale trade of slaughtered poultry and derivatives
+4634603;Wholesale of fish and seafood
+4634699;Wholesale trade of meat and derivatives of other animals
+4635401;Mineral water wholesaler
+4635402;Wholesale trade of beer, draft beer and soft drinks
+4635403;Wholesale trade of beverages with associated fractionation and packaging activity
+4635499;Wholesale of beverages not otherwise specified
+4636201;Wholesale of benefited tobacco
+4636202;Wholesale of cigarettes, cigarillos and cigars
+4637101;Wholesale trade of roasted, ground and soluble coffee
+4637102;Wholesale sugar trade
+4637103;Wholesale trade of oils and fats
+4637104;Wholesale trade of breads, cakes, biscuits and the like
+4637105;Wholesale of pasta
+4637106;ice cream wholesaler
+4637107;Wholesale trade of chocolates, confectionery, candies, bonbons and the like
+4637199;Specialized wholesale trade in other food products not otherwise specified
+4639701;Wholesale trade of food products in general
+4639702;Wholesale trade of food products in general, with associated fractionation and packaging activity
+4641901;Fabric wholesale trade
+4641902;Wholesale of bed, table and bath articles
+4641903;Wholesale of haberdashery items
+4642701;Wholesale of clothing and accessories, except professional and security items
+4642702;Wholesale trade of clothing and accessories for professional and work safety use
+4643501;shoe wholesaler
+4643502;Wholesale trade of handbags, suitcases and travel goods
+4644301;Wholesale of medicines and drugs for human use
+4644302;Wholesale trade of medicines and drugs for veterinary use
+4645101;Wholesale of instruments and materials for medical, surgical, hospital and laboratory use
+4645102;Wholesale of prostheses and orthopedic articles
+4645103;Wholesale of dental products
+4646001;Wholesale of cosmetics and perfumery products
+4646002;Wholesale of personal care products
+4647801;Wholesale of office supplies and stationery
+4647802;Wholesale of books, newspapers and other publications
+4649401;Wholesale of electrical equipment for personal and domestic use
+4649402;Wholesale trade of electronics for personal and domestic use
+4649403;Wholesale of bicycles, tricycles and other recreational vehicles
+4649404;Wholesale of furniture and bedding articles
+4649404;Wholesale of furniture and bedding articles
+4649405;Wholesale trade of upholstery, blinds and curtains
+4649406;Wholesale trade of chandeliers, lamps and table lamps
+4649407;Wholesale of films, CDs, DVDs, tapes and discs
+4649408;Wholesale trade of hygiene, cleaning and home care products
+4649409;Wholesale trade of hygiene, cleaning and home care products, with associated fractionation and packaging activity
+4649410;Wholesale of jewelry, watches and costume jewelry, including polished precious and semiprecious stones
+4649499;Wholesale of other equipment and articles for personal and household use not otherwise specified
+4649499;Wholesale of other equipment and articles for personal and household use not otherwise specified
+4651601;Wholesale of computer equipment
+4651602;Wholesale trade of IT supplies
+4652400;Wholesale of electronic components and telephony and communication equipment
+4661300;Wholesale of machinery, apparatus and equipment for agricultural use, parts and pieces
+4662100;Wholesale of machinery, equipment for earthmoving, mining and construction, parts and pieces
+4663000;Wholesale trade of machinery and equipment for industrial use, parts and pieces
+4664800;Wholesale of machinery, apparatus and equipment for dentalmedicalhospital use, parts and pieces
+4665600;Wholesale trade of machinery and equipment for commercial use, parts and pieces
+4669901;Wholesale trade of pumps and compressors, parts and pieces
+4669999;Wholesale of other machinery and equipment nes, parts and pieces
+4669999;Wholesale of other machinery and equipment nes, parts and pieces
+4669999;Wholesale of other machinery and equipment nes, parts and pieces
+4671100;Wholesale of wood and wood products
+4672900;Wholesale of hardware and tools
+4673700;Wholesale of electrical material
+4674500;cement wholesale trade
+4679601;Wholesale trade of paints, varnishes and similar products
+4679602;Marble and granite wholesaler
+4679603;Wholesale trade of glass, mirrors and stained glass
+4679604;Specialized wholesale trade of construction materials not otherwise specified
+4679699;Wholesale trade of building materials in general
+4681801;Wholesale of fuel alcohol, biodiesel, gasoline and other petroleum products, except lubricants, not carried out by retail carrier (TRR)
+4681802;Wholesale fuel trade carried out by retail carrier (TRR)
+4681803;Wholesale trade of fuels of vegetable origin, except fuel alcohol
+4681804;Wholesale trade of raw mineral fuels
+4681805;Wholesale of lubricants
+4682600;Wholesale trade of liquefied petroleum gas (LPG)
+4683400;Wholesale trade of pesticides, manures, fertilizers and soil amendments
+4684201;Wholesale trade of resins and elastomers
+4684202;Wholesale of solvents
+4684299;Wholesale of other chemical and petrochemical products not otherwise specified
+4685100;Wholesale of steel and metallurgical products, except for construction
+4686901;Wholesale of raw paper and cardboard
+4686902;Wholesale of packaging
+4687701;Wholesale trade of waste paper and cardboard
+4687702;Wholesale trade of nonmetallic waste and scrap, except paper and cardboard
+4687703;Wholesale trade of waste and scrap metal
+4689301;Wholesale trade of mineral extraction products, except fuels
+4689302;Wholesale trade of processed textile yarns and fibers
+4689399;Specialized wholesale trade in other intermediate products not otherwise specified
+4689399;Specialized wholesale trade in other intermediate products not otherwise specified
+4691500;Wholesale trade of goods in general, with a predominance of food products
+4692300;Wholesale trade of goods in general, with a predominance of agricultural inputs
+4693100;Wholesale trade of goods in general, with no predominance of food or agricultural inputs
+4711301;Retail trade of goods in general, with a predominance of food products  hypermarkets
+4711302;Retail trade of goods in general, with a predominance of food products  supermarkets
+4712100;Retail trade of goods in general, with a predominance of food products  mini markets, grocery stores and warehouses
+4712100;Retail trade of goods in general, with a predominance of food products  mini markets, grocery stores and warehouses
+4713001;Department stores or magazines
+4713002;Variety stores, except department stores or department stores
+4713003;International airport duty free shops
+4721101;Bakery and confectionery with predominance of own production
+4721102;Bakery and confectionery with predominance of resale
+4721103;Retail trade of dairy and cold products
+4721104;Retail sale of sweets, candies, bonbons and the like
+4722901;Meat retail trade  butchers
+4722902;Fishmonger
+4723700;beverage retail trade
+4724500;Retail trade of horticultural products
+4729601;Tobacconist
+4729699;Retail sale of food products in general or specialized in food products not otherwise specified
+4729699;Retail sale of food products in general or specialized in food products not otherwise specified
+4731800;Retail sale of fuel for motor vehicles
+4732600;Retail trade of lubricants
+4741500;Retail sale of paints and painting materials
+4742300;Retail trade of electrical material
+4743100;Glass retail trade
+4744001;Retail sale of hardware and tools
+4744002;Retail trade of wood and artifacts
+4744003;Retail trade of plumbing materials
+4744004;Retail trade of lime, sand, crushed stone, bricks and tiles
+4744005;Retail sale of construction materials not otherwise specified
+4744099;Retail trade of building materials in general
+4751200;Specialized retail trade of computer equipment and supplies
+4752100;Specialized retail trade of telephony and communication equipment
+4753900;Specialized retail trade of home appliances and audio and video equipment
+4754701;furniture retail trade
+4754702;Retail sale of bedding articles
+4754703;Retail trade of lighting items
+4755501;fabric retail trade
+4755502;Retail sale of haberdashery items
+4755503;Retail trade of bed, table and bath articles
+4756300;Specialized retail trade of musical instruments and accessories
+4757100;Specialized retail trade of parts and accessories for electrical and electronic devices for domestic use, except for information technology and communication
+4759801;Retail sale of upholstery, curtains and blinds
+4759899;Retail sale of other household articles not otherwise specified
+4759899;Retail sale of other household articles not otherwise specified
+4761001;book retail trade
+4761002;Retail trade of newspapers and magazines
+4761003;Stationery retail trade
+4762800;Retail sale of records, CDs, DVDs and tapes
+4763601;Retail sale of toys and recreational items
+4763602;Retail trade of sporting goods
+4763603;Retail trade of bicycles and tricycles, parts and accessories
+4763604;Retail sale of hunting, fishing and camping articles
+4763605;Retail sale of boats and other recreational vehicles, parts and accessories
+4771701;Retail sale of pharmaceutical products, without handling formulas
+4771702;Retail sale of pharmaceutical products, with manipulation of formulas
+4771703;Retail sale of homeopathic pharmaceutical products
+4771704;Retail sale of veterinary drugs
+4772500;Retail sale of cosmetics, perfumery and personal care products
+4773300;Retail sale of medical and orthopedic items
+4774100;Retail trade of optical articles
+4781400;Retail sale of clothing and accessories
+4782201;Footwear retail trade
+4782202;Travel goods retail trade
+4783101;Jewelery retail trade
+4783102;Retail sale of watch articles
+4784900;Retail sale of liquefied petroleum gas (LPG)
+4785701;antiques retail trade
+4785799;Retail sale of other used items
+4789001;Retail sale of souvenirs, jewelry and handicrafts
+4789002;Retail sale of natural plants and flowers
+4789003;Art object retail trade
+4789004;Retail sale of live animals and pet articles and food
+4789005;Retail sale of household cleaning products
+4789006;Retail sale of fireworks and pyrotechnic articles
+4789007;Office equipment retailer
+4789008;Retail sale of photographic and filming articles
+4789009;Retail sale of weapons and ammunition
+4789099;Retail sale of other products not otherwise specified
+4789099;Retail sale of other products not otherwise specified
+4911600;rail freight transport
+4912401;Intercity and interstate passenger rail transport
+4912402;Railway passenger transport in the city and metropolitan area
+4912402;Railway passenger transport in the city and metropolitan area
+4912403;subway transport
+4921301;Collective road transport of passengers, with fixed route, municipal
+4921302;Collective road transport of passengers, with fixed itinerary, intercity in metropolitan region
+4921302;Collective road transport of passengers, with fixed itinerary, intercity in metropolitan region
+4922101;Collective road transport of passengers, with a fixed itinerary, intercity, except in the metropolitan region
+4922102;Collective road transport of passengers, with fixed itinerary, interstate
+4922103;Public passenger transport by road, with a fixed route, international
+4923001;Taxi service
+4923002;Passenger transport service  car rental with driver
+4924800;School bus
+4924800;School bus
+4929901;Collective road transport of passengers, under charter system, municipal
+4929902;Collective road transport of passengers, under charter, intercity, interstate and international
+4929903;Organization of excursions in own road vehicles, municipal
+4929904;Organization of excursions in own road vehicles, intercity, interstate and international
+4929999;Other road passenger transport not otherwise specified
+4930201;Road freight transport, except dangerous goods and moving, municipal
+4930202;Cargo road transport, except dangerous goods and moving, intercity, interstate and international
+4930202;Cargo road transport, except dangerous goods and moving, intercity, interstate and international
+4930203;Road transport of dangerous goods
+4930204;Road transport of removals
+4940000;pipeline transport
+4950700;Tourist trains, cable cars and similar
+5011401;Maritime cabotage transport  Cargo
+5011402;Maritime cabotage transport  passengers
+5012201;Long haul maritime transport  Cargo
+5012202;Long haul maritime transport  Passengers
+5021101;Transport by inland freight navigation, municipal, except crossing
+5021102;Transport by inland cargo navigation, intercity, interstate and international, except crossing
+5022001;Transport by inland navigation of passengers on regular lines, municipal, except crossing
+5022002;Transport by inland navigation of passengers on regular, intercity, interstate and international lines, except crossing
+5030101;Maritime support navigation
+5030101;Maritime support navigation
+5030102;Port support navigation
+5030102;Port support navigation
+5091201;Transport by crossing navigation, municipal
+5091202;Transport by crossing navigation, intercity
+5099801;Water transport for sightseeing
+5099801;Water transport for sightseeing
+5099801;Water transport for sightseeing
+5099899;Other water transport not previously specified
+5099899;Other water transport not previously specified
+5111100;Regular passenger air transport
+5112901;Air taxi service and aircraft rental with crew
+5112999;Other nonscheduled passenger air transport services
+5120000;air freight transport
+5120000;air freight transport
+5130700;space shuttle
+5211701;General warehouses  issuance of warrant
+5211702;furniture storage
+5211799;Goods warehouses for third parties, except general warehouses and furniture storage
+5212500;loading and unloading
+5221400;Concessionaires for highways, bridges, tunnels and related services
+5222200;Road and rail terminals
+5223100;vehicle parking
+5229001;Taxi transport support services, including call centers
+5229002;Vehicle towing services
+5229099;Other activities auxiliary to land transport not previously specified
+5231101;Port infrastructure management
+5231102;terminal operations
+5232000;Shipping agency activities
+5232000;Shipping agency activities
+5239700;Auxiliary activities of water transport not previously specified
+5240101;Operation of airports and landing fields
+5240199;Auxiliary activities of air transport, except operation of airports and landing fields
+5240199;Auxiliary activities of air transport, except operation of airports and landing fields
+5250801;Dispatch Commissariat
+5250802;Customs broker activities
+5250803;Freight forwarding, except for maritime transport
+5250804;Logistics organization of cargo transport
+5250805;Multimodal transport operator  OTM
+5310501;Activities of the National Post Office
+5310502;Activities of Correio Nacional franchisees and licensees
+5320201;Pouch services not performed by Correio Nacional
+5320202;fast delivery services
+5510801;hotels
+5510802;apart hotels
+5510803;motels
+5590601;Hostels, except assistance
+5590602;Campsites
+5590603;Pensions (accommodation)
+5590699;Other accommodation not previously specified
+5611201;Restaurants and similar
+5611202;Bars and other establishments specializing in serving drinks
+5611203;Snack bars, tea houses, juice bars and similar
+5612100;mobile food services
+5620101;Supply of prepared food mainly for companies
+5620102;Food services for events and receptions  buffet
+5620103;Cantinas  private catering services
+5620103;Cantinas  private catering services
+5620104;Provision of food prepared predominantly for home consumption
+5811500;book editing
+5811500;book editing
+5811500;book editing
+5812300;newspaper editing
+5812300;newspaper editing
+5813100;magazine editing
+5813100;magazine editing
+5819100;Editing entries, lists and other graphic products
+5819100;Editing entries, lists and other graphic products
+5821200;Editing integrated with book printing
+5822100;Integrated edition to newspaper printing
+5823900;Editing integrated with magazine printing
+5829800;Editing integrated with the printing of registers, lists and other graphic products
+5911101;movie studios
+5911102;Advertising film production
+5911199;Film, video and television production activities not otherwise specified
+5912001;dubbing services
+5912002;Sound mixing services in audiovisual production
+5912099;Film, video and television postproduction activities not otherwise specified
+5913800;Film, video and television program distribution
+5913800;Film, video and television program distribution
+5914600;Film screening activities
+5920100;Sound recording and music editing activities
+5920100;Sound recording and music editing activities
+5920100;Sound recording and music editing activities
+5920100;Sound recording and music editing activities
+6010100;radio activities
+6010100;radio activities
+6021700;open television activities
+6022501;programmers
+6022502;PayTVrelated activities, except programmers
+6110801;Switched fixed telephony services  STFC
+6110802;Telecommunications transport network services  SRTT
+6110803;Multimedia communication services  SCM
+6110899;Wired telecommunications services not otherwise specified
+6120501;cellular mobile telephony
+6120502;Specialized mobile service  SME
+6120599;Wireless telecommunications services not otherwise specified
+6130200;Satellite telecommunications
+6130200;Satellite telecommunications
+6141800;PayTV cable operators
+6141800;PayTV cable operators
+6142600;Microwave payTV operators
+6142600;Microwave payTV operators
+6143400;Satellite PayTV Operators
+6143400;Satellite PayTV Operators
+6190601;Providers of access to communications networks
+6190602;Voice over internet protocol providers  VOIP
+6190699;Other telecommunications activities not previously specified
+6190699;Other telecommunications activities not previously specified
+6190699;Other telecommunications activities not previously specified
+6201500;Development of custom computer programs
+6201500;Development of custom computer programs
+6202300;Development and licensing of customizable computer programs
+6203100;Development and licensing of noncustomizable computer programs
+6204000;Consulting in information technology
+6204000;Consulting in information technology
+6209100;Technical support, maintenance and other information technology services
+6311900;Data processing, application service providers and internet hosting services
+6311900;Data processing, application service providers and internet hosting services
+6319400;Portals, content providers and other information services on the internet
+6391700;news agencies
+6399200;Other information service provision activities not previously specified
+6410700;central bank
+6421200;commercial banks
+6422100;Multiple banks, with commercial portfolio
+6423900;savings banks
+6424701;cooperative banks
+6424702;central credit unions
+6424703;mutual credit unions
+6424704;rural credit unions
+6431000;Multiple banks, without commercial portfolio
+6432800;investment banks
+6433600;development banks
+6434400;development agencies
+6435201;real estate credit companies
+6435202;Savings and loan associations
+6435203;mortgage companies
+6436100;Credit, financing and investment  financial companies
+6437900;Microentrepreneur credit societies
+6438701;exchange banks
+6438799;"""Other unspecified noncash intermediary institutions"
+6440900;"previously"""
+6450600;Lease
+6461100;capitalization companies
+6462000;Holdings of financial institutions
+6463800;Holdings of nonfinancial institutions
+6470101;Other holding companies, except holding companies
+6470102;Investment funds, except pension and real estate
+6470103;pension investment funds
+6491300;real estate investment funds
+6492100;Mercantile development companies  factoring
+6493000;credit securitization
+6499901;Management of consortiums for the acquisition of assets and rights
+6499902;investment clubs
+6499903;investment companies
+6499904;credit guarantee fund
+6499905;Corporate finance boxes
+6499999;Granting of credit by OSCIP
+6499999;Other financial services activities not otherwise specified
+6511101;Other financial services activities not otherwise specified
+6511102;life insurance
+6512000;Funeral Assistance Plans
+6520100;nonlife insurance
+6530800;health insurance
+6541300;Reinsurance
+6542100;Closed supplementary pension
+6550200;open supplementary pension
+6611801;Health insurance
+6611802;Stock Exchange
+6611803;commodity exchange
+6611804;Commodity and futures exchange
+6612601;Management of organized overthecounter markets
+6612602;Bond and securities brokerages
+6612603;Dealers of bonds and securities
+6612604;exchange brokers
+6612605;Commodity contract brokers
+6613400;Investment agents in financial investments
+6619301;Credit card administration
+6619301;Settlement and custody services
+6619302;Settlement and custody services
+6619303;Financial institution correspondents
+6619304;Representations of foreign banks
+6619305;ATMs
+6619399;Debit Card Operators
+6621501;Other activities auxiliary to financial services not previously specified
+6621502;Insurance experts and appraisers
+6622300;Auditing and actuarial consulting
+6629100;Brokers and agents of insurance, supplementary pension plans and health
+6630400;Auxiliary activities of insurance, private pension and health plans not previously specified
+6630400;Fund management activities by contract or commission
+6810201;Fund management activities by contract or commission
+6810202;Buying and selling of own properties
+6821801;Own property rental
+6821802;Brokerage in the purchase and sale and valuation of real estate
+6822600;Real estate rental brokerage
+6911701;Real estate management and administration
+6911702;legal services
+6911703;Auxiliary activities of justice
+6912500;industrial property agent
+6920601;Registry Offices
+6920602;accounting activities
+7020400;Accounting and tax consulting and audit activities
+7111100;Business management consulting activities, except specific technical consulting
+7112000;architectural services
+7119701;Engineering services
+7119702;Cartography, topography and geodesy services
+7119703;Geological study activities
+7119704;Technical drawing services related to architecture and engineering
+7119799;Technical expertise services related to work safety
+7120100;Technical activities related to engineering and architecture not otherwise specified
+7210000;Technical tests and analysis
+7220700;Research and experimental development in physical and natural sciences
+7311400;Research and experimental development in social sciences and humanities
+7312200;Publicity agencies
+7319001;Agency of spaces for advertising, except in communication vehicles
+7319002;Creation of stands for fairs and exhibitions
+7319002;Sales promotion
+7319003;Sales promotion
+7319004;Direct marketing
+7319099;advertising consultancy
+7320300;Other advertising activities not otherwise specified
+7410201;Market and public opinion research
+7410202;Design
+7420001;Inner decoration
+7420001;Photo production activities, except aerial and underwater
+7420002;Photo production activities, except aerial and underwater
+7420003;Aerial and underwater photography production activities
+7420004;photo labs
+7420005;Filming parties and events
+7490101;microfilming services
+7490102;Translation, interpretation and similar services
+7490103;Scuba Diving and Diving
+7490104;Agronomy and consulting services for agricultural and livestock activities
+7490105;Intermediation activities and agency services and business in general, except real estate
+7490199;Agency of professionals for sports, cultural and artistic activities
+7500100;Other professional, scientific and technical activities not previously specified
+7711000;veterinary activities
+7719501;Driverless car rental
+7719502;Leasing of vessels without crew, except for recreational purposes
+7719599;Aircraft leasing without crew
+7721700;Rental of other means of transport not previously specified, without a driver
+7722500;Rental of recreational and sports equipment
+7723300;Rental of videotapes, DVDs and similar
+7729201;Rental of clothing, jewelry and accessories
+7729202;Rental of electronic game devices
+7729202;Rental of furniture, fixtures and appliances for domestic and personal use, musical instruments
+7729203;Rental of furniture, fixtures and appliances for domestic and personal use, musical instruments
+7729299;Medical equipment rental
+7731400;Rental of other personal and household objects not previously specified
+7732201;Rental of agricultural machinery and equipment without operator
+7732202;Rental of machinery and equipment for construction without an operator, except scaffolding
+7733100;scaffolding rental
+7739001;Rental of office machinery and equipment
+7739002;Rental of machinery and equipment for extracting minerals and oil, without operator
+7739003;Rental of scientific, medical and hospital equipment, without operator
+7739099;Rental of stages, roofs and other structures for temporary use, except scaffolding
+7739099;Rental of other commercial and industrial machinery and equipment not specified above, without operator
+7740300;Rental of other commercial and industrial machinery and equipment not specified above, without operator
+7810800;Management of nonfinancial intangible assets
+7820500;Labor selection and agency
+7830200;Temporary labor hire
+7911200;Provision and management of human resources for third parties
+7912100;travel agencies
+7990200;tour operators
+7990200;Reservation services and other tourism services not otherwise specified
+8011101;Reservation services and other tourism services not otherwise specified
+8011102;Surveillance and private security activities
+8012900;Guard dog training services
+8020000;Cash transport activities
+8030700;Security systems monitoring activities
+8111700;Private investigation activities
+8111700;Combined services to support buildings, except building condominiums
+8112500;Combined services to support buildings, except building condominiums
+8121400;building condominiums
+8122200;Cleaning in buildings and homes
+8129000;Immunization and control of urban pests
+8129000;Cleaning activities not previously specified
+8130300;Cleaning activities not previously specified
+8211300;landscaping activities
+8219901;Combined office and administrative support services
+8219999;photocopies
+8220200;Document preparation and specialized administrative support services not otherwise specified
+8230001;call center activities
+8230002;Organization services for fairs, congresses, exhibitions and parties
+8291100;Party and event houses
+8292000;Billing activities and registration information
+8299701;Bottling and packaging under contract
+8299702;Measurement of electricity, gas and water consumption
+8299703;Issuance of food vouchers, transportation vouchers and the like
+8299704;Stamp engraving services, except making
+8299705;independent auctioneers
+8299706;Contract fundraising services
+8299707;lottery houses
+8299799;Internet access rooms
+8411600;Other service activities provided primarily to companies not otherwise specified
+8411600;public administration in general
+8412400;public administration in general
+8413200;Regulation of health, education, cultural services and other social services
+8421300;Regulation of economic activities
+8422100;foreign relations
+8423000;Defense
+8424800;Justice
+8425600;Security and public order
+8430200;Civil defense
+8511200;Mandatory social security
+8512100;Early childhood education  day care
+8513900;Early Childhood Education  Preschool
+8520100;Elementary School
+8531700;High school
+8532500;Higher education  graduation
+8533300;Higher education  undergraduate and graduate
+8541400;Higher education  graduate and extension
+8542200;Technical level professional education
+8550301;Technological level professional education
+8550302;School fund management
+8591100;Education support activities, except school boxes
+8592901;sports teaching
+8592902;dance teaching
+8592903;Teaching of performing arts, except dance
+8592999;music teaching
+8593700;Teaching of arts and culture not otherwise specified
+8599601;language teaching
+8599602;driver training
+8599603;piloting courses
+8599604;computer training
+8599605;Training in professional and managerial development
+8599699;Preparatory courses for competitions
+8610101;Other teaching activities not previously specified
+8610102;Hospital care activities, except emergency room and emergency care units
+8621601;Service activities in emergency rooms and hospital units for emergency care
+8621602;mobile ICU
+8622400;Mobile emergency care services, except for mobile ICU
+8630501;Patient evacuation services, except mobile emergency services
+8630502;Outpatient medical activity with resources to perform surgical procedures
+8630503;Outpatient medical activity with resources for carrying out complementary exams
+8630504;Outpatient medical activity restricted to appointments
+8630506;dental activity
+8630507;Vaccination and human immunization services
+8630599;Assisted human reproduction activities
+8640201;Outpatient care activities not otherwise specified
+8640202;Pathological and cytological anatomy laboratories
+8640203;clinical laboratories
+8640204;Dialysis and nephrology services
+8640205;tomography services
+8640206;Diagnostic imaging services using ionizing radiation, except tomography
+8640207;MRI services
+8640208;Diagnostic imaging services without the use of ionizing radiation, except magnetic resonance imaging
+8640209;Diagnosis services by graphic recording  ECG, EEG and other analogous exams
+8640210;Diagnostic services by optical methods  endoscopy and other similar tests
+8640211;chemotherapy services
+8640212;radiotherapy services
+8640213;blood therapy services
+8640214;lithotripsy services
+8640299;Human cell and tissue banking services
+8650001;Complementary diagnostic and therapeutic service activities not previously specified
+8650002;nursing activities
+8650003;Activities of nutrition professionals
+8650004;Psychology and psychoanalysis activities
+8650005;physical therapy activities
+8650006;Occupational therapy activities
+8650007;speech therapy activities
+8650099;Enteral and parenteral nutrition therapy activities
+8660700;Activities of healthcare professionals not otherwise specified
+8690901;Health management support activities
+8690901;Activities of integrative and complementary practices in human health
+8690902;Activities of integrative and complementary practices in human health
+8690999;Activities of human milk banks
+8711501;Other human health care activities not previously specified
+8711502;Clinics and geriatric homes
+8711503;Longstay institutions for the elderly
+8711504;Assistance activities for the physically disabled, immunosuppressed and convalescents
+8711505;Cancer and AIDS support centers
+8712300;Residential condominiums for seniors
+8720401;Activities to provide support infrastructure and assistance to patients at home
+8720401;Activities of psychosocial assistance centers
+8720499;Activities of psychosocial assistance centers
+8720499;Psychosocial and health care activities for people with mental disorders, mental disabilities and chemical dependency not otherwise specified
+8720499;Psychosocial and health care activities for people with mental disorders, mental disabilities and chemical dependency not otherwise specified
+8730101;Psychosocial and health care activities for people with mental disorders, mental disabilities and chemical dependency not otherwise specified
+8730102;orphanages
+8730199;assistance hostels
+8730199;Social assistance activities provided in collective and private residences not previously specified
+8800600;Social assistance activities provided in collective and private residences not previously specified
+9001901;Housingfree social care services
+9001902;theatrical production
+9001903;Musical production
+9001904;Production of dance shows
+9001905;Production of circus, puppet and similar shows
+9001906;Production of rodeo, vaquejada and similar shows
+9001906;Sound and lighting activities
+9001999;Sound and lighting activities
+9001999;Performing arts, shows and complementary activities not previously specified
+9002701;Performing arts, shows and complementary activities not previously specified
+9002701;Activities of visual artists, independent journalists and writers
+9002702;Activities of visual artists, independent journalists and writers
+9003500;Restoration of works of art
+9101500;Management of spaces for performing arts, shows and other artistic activities
+9102301;Libraries and archives activities
+9102302;Museum activities and exploration of historic sites, buildings and similar attractions
+9103100;Restoration and conservation of historic sites and buildings
+9200301;Activities of botanical gardens, zoos, national parks, ecological reserves and environmental protection areas
+9200302;bingo halls
+9200399;Horse racing betting exploration
+9200399;Exploration of games of chance and bets not previously specified
+9311500;Exploration of games of chance and bets not previously specified
+9312300;Sports facility management
+9313100;Social, sports and similar clubs
+9319101;physical conditioning activities
+9319199;Production and promotion of sporting events
+9319199;Other sports activities not previously specified
+9319199;Other sports activities not previously specified
+9321200;Other sports activities not previously specified
+9329801;Amusement parks and theme parks
+9329801;Nightclubs, nightclubs, dance halls and similar
+9329802;Nightclubs, nightclubs, dance halls and similar
+9329803;bowling exploration
+9329804;Exploration of pool, billiards and similar games
+9329899;Exploration of recreational electronic games
+9411100;Other recreation and leisure activities not otherwise specified
+9412000;Activities of employer and business association organizations
+9420100;Activities of professional membership organizations
+9430800;Activities of union organizations
+9491000;Activities of associations for the defense of social rights
+9492800;Activities of Religious Organizations
+9493600;Activities of political organizations
+9499500;Activities of associative organizations linked to culture and art
+9511800;Associative activities not previously specified
+9512600;Repair and maintenance of computers and peripheral equipment
+9512600;Repair and maintenance of communication equipment
+9512600;Repair and maintenance of communication equipment
+9521500;Repair and maintenance of communication equipment
+9529101;Repair and maintenance of electronic equipment for personal and domestic use
+9529102;Repair of shoes, bags and travel goods
+9529103;keychains
+9529104;watch repair
+9529105;Repair of bicycles, tricycles and other nonmotorized vehicles
+9529106;Repair of furniture items
+9529199;jewelry repair
+9601701;Repair and maintenance of other personal and household objects and equipment not otherwise specified
+9601702;Laundries
+9601703;dry cleaners
+9602501;Towel racks
+9602502;hairdressers
+9603301;Other beauty treatment activities
+9603302;Cemetery management and maintenance
+9603303;cremation services
+9603304;burial services
+9603305;funeral home services
+9603399;somato conservation services
+9609201;Funeral activities and related services not otherwise specified
+9609202;Beauty clinics and the like
+9609203;matrimonial agencies
+9609204;Accommodation, hygiene and beautification of animals
+9609299;Exploring coinoperated personal service machines
+9700500;Other personal service activities not otherwise specified
+9900800;Domestic services
+9120000;International bodies and other extraterritorial institutions
+111201;​
+111202;​
+111203;​
+111299;Growing other cereals for grain
+112000;​
+119807;​
+119899;Cultivation of other temporary crop products, not specified above
+113900;​
+114700;​
+115500;​
+119802;​
+119814;​
+119808;​
+119899;Cultivation of other temporary crop products, not specified above
+119801;​
+121002;​
+119803;English potato cultivation
+121001;​
+119806;​
+119805;​
+119809;​
+119815;​
+119810;Tomato cultivation (low ground)
+119899;Cultivation of other temporary crop products, not specified above
+121099;Cultivation of other vegetables
+121003;​
+122800;Cultivation of flowers, ornamental plants and nursery products
+131701;​
+134100;​
+139211;​
+139201;​
+139202;​
+131799;Growing other citrus
+139203;​
+139214;​
+139206;​
+139207;​
+139209;​
+139208;​
+139212;​
+139299;Cultivation of other permanent crop products, not previously specified
+132500;​
+133300;​
+139205;​
+139210;​
+139204;Black pepper cultivation
+139216;Cultivation of other spice plants
+139215;​
+139213;​
+139299;Cultivation of other permanent crop products, not previously specified
+119817;Production of certified seeds of temporary crops  except pastureforage
+121099;Cultivation of other vegetables
+122800;Cultivation of flowers, ornamental plants and nursery products
+119816;Production of certified seeds for the formation of pastureforage
+119817;Production of certified seeds of temporary crops  except pastureforage
+121099;Cultivation of other vegetables
+122800;Cultivation of flowers, ornamental plants and nursery products
+141401;​
+141402;​
+141402;Cattle breeding for milk
+142201;buffalo breeding
+142202;​
+142299;Breeding of other large animals
+146501;​
+143000;Sheep breeding and wool production
+144900;​
+145701;​
+145702;Dayold chick rearing
+145705;Breeding of other chickens  except for cutting
+145703;Breeding of other birds
+145704;​
+146503;​
+146506;breeding of domestic animals
+146505;snail breeding
+146502;Sericulture
+146599;Breeding of other animals
+"1;503.";Mixed production, Crops and livestock
+161902;Crop spraying services
+161999;Other service activities related to agriculture
+161903;tree pruning service
+161904;harvesting service
+161999;Other service activities related to agriculture
+161999;Other service activities related to agriculture
+162701;artificial insemination service
+162703;sheep shearing service
+162704;​
+162799;Other service activities related to livestock  except veterinary activities
+161905;Services related to the treatment of agricultural products
+170800;Hunting, game restocking and related services
+211901;​
+211902;Black wattle cultivation
+211903;​
+211904;​
+211905;Cultivation of other wood species
+211906;​
+212701;logging
+212701;logging
+2429501;Production of charcoal
+212702;Black wattle bark production
+212799;Collection of other wild forest products
+212701;logging
+212701;logging
+2429501;Production of charcoal
+212704;Brazil nut collection
+212703;Latex collection (extractive rubber)
+212705;heart of palm collection
+212799;Collection of other wild forest products
+213500;Activities of the services related to forestry and forestry
+511801;fish fishing
+511802;Fishing for crustaceans and molluscs
+511803;Collection of products of marine origin
+511804;Fishingrelated service activities
+511801;fish fishing
+511802;Fishing for crustaceans and molluscs
+511803;Collection of products of marine origin
+511804;Fishingrelated service activities
+512601;fish farming
+512602;shrimp farming
+512603;Raising Oysters and Mussels
+512604;Breeding of ornamental fish
+512605;Aquaculturerelated service activities
+512699;Other aquaculture crops and semicultures
+512601;fish farming
+512602;shrimp farming
+512603;Raising Oysters and Mussels
+512604;Breeding of ornamental fish
+512606;​
+146599;Breeding of other animals
+512605;Aquaculturerelated service activities
+512699;Other aquaculture crops and semicultures
+1000601;​
+1000602;​
+1110001;​
+1110002;​
+1110003;​
+1310201;​
+1310202;​
+1321801;​
+1321802;​
+1322601;​
+1322602;​
+1323401;​
+1323402;​
+1324201;​
+1324202;Processing of precious metal ore associated with or in continuation of extraction
+1325000;​
+1329301;Niobium and titanium extraction
+1329302;tungsten extraction
+1329303;nickel extraction
+1329304;Extraction of copper, lead, zinc and other nonferrous metallic minerals not included in other classes
+1329305;Processing of copper, lead, zinc, nickel and other nonferrous metallic minerals not included in other classes
+1410901;​
+1410902;granite extraction
+1410903;marble extraction
+1410904;Limestonedolomite extraction and associated processing
+1410905;​
+1410906;​
+1410907;​
+1410908;​
+1410909;​
+1410910;​
+1410999;Extraction andor crushing of stones and other construction materials not previously specified and their associated processing
+1421400;Extraction of minerals for the manufacture of manure, fertilizers and chemical products
+1422201;​
+1422202;​
+1422203;​
+1429001;gem extraction
+1429002;​
+1429003;Quartz and rock crystal extraction
+1429004;​
+1000601;Mineral coal extraction
+1429099;​
+1120700;Services related to oil and gas extraction  except prospecting carried out by third parties
+1310201;iron ore extraction
+1321801;aluminum ore extraction
+1322601;tin ore extraction
+1323401;Manganese ore extraction
+1324201;Extraction of precious metal ore
+1329301;Niobium and titanium extraction
+1329302;tungsten extraction
+1329303;nickel extraction
+1329304;Extraction of copper, lead, zinc and other nonferrous metallic minerals not included in other classes
+1000601;Mineral coal extraction
+1410901;Extraction of slate and associated processing
+1410902;granite extraction
+1410903;marble extraction
+1410904;Limestonedolomite extraction and associated processing
+1410905;Gypsum and kaolin extraction
+1410906;Extraction of sand, gravel or gravel and associated processing
+1410907;Clay extraction and associated processing
+1410908;Extraction of gravel and associated processing
+1410909;Basalt extraction and associated processing
+1410999;Extraction andor crushing of stones and other construction materials not previously specified and their associated processing
+1421400;Extraction of minerals for the manufacture of manure, fertilizers and chemical products
+1422201;sea ​​salt extraction
+1422202;rock salt extraction
+1429001;gem extraction
+1429002;graphite extraction
+1429003;Quartz and rock crystal extraction
+1429004;asbestos extraction
+1429099;Extraction of other nonmetallic minerals not previously specified
+1511301;Slaughterhouse  Cattle slaughter and preparation of meat and byproducts
+1511303;Refrigerator  Equine slaughter and preparation of meat and byproducts
+1511304;Refrigerator  Slaughter of sheep and goats and preparation of meat and byproducts
+1511305;Refrigerator  Buffalo slaughter and preparation of meat and byproducts
+1511306;Slaughterhouse  slaughter of cattle and preparation of meat for third parties
+1512101;Slaughter of poultry and preparation of meat products
+1512102;Slaughter of small animals and preparation of meat products
+1511302;Slaughterhouse  Slaughter of pigs and preparation of meat and byproducts
+1511306;Slaughterhouse  slaughter of cattle and preparation of meat for third parties
+1513001;Preparation of meat, lard and sausage products not associated with slaughter
+1513002;Preparation of byproducts not associated with slaughter
+1514800;Preparation and conservation of fish and manufacture of canned fish, crustaceans and molluscs
+1514800;Preparation and conservation of fish and manufacture of canned fish, crustaceans and molluscs
+1521000;Processing, preservation and production of fruit preserves
+1522900;Processing, preservation and canning of vegetables and other vegetables
+1522900;Processing, preservation and canning of vegetables and other vegetables
+1523700;Production of fruit and vegetable juices
+1523700;Production of fruit and vegetable juices
+1595402;Manufacture of soft drinks, syrups and powders for soft drinks
+1531800;Raw vegetable oil production
+1532600;Vegetable oil refining
+1533400;Preparation of margarine and other inedible vegetable fats and oils of animal origin
+1541500;​
+1542300;Dairy product manufacturing
+1543100;ice cream manufacturing
+1551201;​
+1551202;​
+1552000;​
+1553900;Production of cassava flour and derivatives
+1554700;Manufacture of corn flour and derivatives  except oil
+1555500;Manufacture of starches and vegetable starches and manufacture of corn oils
+1555500;Manufacture of starches and vegetable starches and manufacture of corn oils
+1555500;Manufacture of starches and vegetable starches and manufacture of corn oils
+1556300;Manufacture of balanced animal feeds
+1559800;Processing, milling and preparation of other products of plant origin
+1561000;sugar mills
+1562801;Cane sugar refining and milling
+1562802;​
+1571701;​
+1571702;​
+1572500;Soluble coffee manufacturing
+1581401;Manufacture of breads, cakes and industrialized equivalents
+1582200;​
+1583001;Production of cocoa derivatives and elaboration of chocolates
+1583002;Production of candies and the like and candied fruit
+1584900;​
+1585700;Preparation of spices, sauces, seasonings and condiments
+1589099;Manufacture of other food products
+1589001;​
+1589002;​
+1589003;Manufacture of ferments, yeasts and curds
+1589004;​
+1589005;Processing of tea, mate and other herbs for infusion
+1562803;Stevia sugar manufacturing
+1586500;Preparation of dietetic products, baby foods and other preserved foods
+1589099;Manufacture of other food products
+1591101;Manufacture, rectification, homogenization and mixing of sugar cane brandy
+1591102;Manufacture, rectification, homogenization and mixing of other brandies and distilled beverages
+1592000;​
+1593801;​
+1593802;​
+1594600;Bottling and carbonation of mineral waters
+1595401;​
+1595402;Manufacture of soft drinks, syrups and powders for soft drinks
+1595402;Manufacture of soft drinks, syrups and powders for soft drinks
+1595402;Manufacture of soft drinks, syrups and powders for soft drinks
+114700;tobacco cultivation
+1600401;​
+1600404;​
+1600403;​
+1600402;Manufacture of rolled tobacco, rope and other tobacco products  except cigarettes, cigarillos and cigars
+1731000;cotton weaving
+1741800;Manufacture of woven household goods, including weaving
+1749300;Manufacture of other textile artifacts, including weaving
+1732900;Weaving of natural textile fiber yarns  except cotton
+1741800;Manufacture of woven household goods, including weaving
+1749300;Manufacture of other textile artifacts, including weaving
+1733700;Weaving of artificial or synthetic continuous yarns and filaments
+1741800;Manufacture of woven household goods, including weaving
+1749300;Manufacture of other textile artifacts, including weaving
+1771000;​
+1750701;Printing and texturing in yarns, fabrics and textiles, including garments
+1750702;Bleaching, dyeing and twisting of yarns, fabrics and textiles, including garments
+1750799;Other finishing services for yarns, fabrics and textiles, including garments
+1761200;Manufacture of textile articles from fabrics  except clothing
+1762000;​
+1763900;​
+1764700;Manufacture of special fabrics  including artifacts
+1769800;Manufacture of other textile articles  except clothing
+1811201;Manufacture of underwear, blouses, shirts and the like  except madetomeasure
+1811202;Custom manufacturing of underwear, blouses, shirts and the like
+1811201;Manufacture of underwear, blouses, shirts and the like  except madetomeasure
+1811201;Manufacture of underwear, blouses, shirts and the like  except madetomeasure
+1812001;Manufacture of garments  except underwear, blouses, shirts and the like and madetomeasure
+1811202;Custom manufacturing of underwear, blouses, shirts and the like
+1812002;Tailormade manufacturing of other garments  except underwear, blouses, shirts and the like
+1812001;Manufacture of garments  except underwear, blouses, shirts and the like and madetomeasure
+1813901;Manufacture of professional clothing  except madetomeasure
+1813902;​
+1813901;Manufacture of professional clothing  except madetomeasure
+1821000;Manufacture of clothing accessories
+1772800;​
+1779500;Manufacture of other articles of clothing produced in knitting (knitting)
+1821000;Manufacture of clothing accessories
+1910000;​
+1921600;Manufacture of suitcases, purses, valises and other items for travel, of any material
+1929100;Manufacture of other leather goods
+1931301;​
+1931302;Footwear cutting and finishing service
+1932100;​
+1933000;Plastic shoe manufacturing
+1939900;Manufacture of shoes from other materials
+1931301;Leather shoe manufacturing
+1933000;Plastic shoe manufacturing
+1939900;Manufacture of shoes from other materials
+2010901;​
+2010902;​
+2021400;Manufacture of laminated wood and plywood, pressed or agglomerated wood sheets
+2022201;Production of prefabricated wooden houses
+2022202;Manufacture of wooden frames, shutters and wooden parts for industrial and commercial installations
+2022299;Manufacture of other carpentry articles
+2023000;Manufacture of cooperage artifacts and wooden packaging
+2029001;Manufacture of various wooden artifacts  except furniture
+2029002;Manufacture of various bamboo, straw, wicker, cork and braided materials  except furniture
+2110500;​
+2121000;​
+2122900;Manufacture of plain cardboard, cardstock and paperboard
+2131800;​
+2132600;Manufacture of cardboard packaging  including the manufacture of corrugated cardboard
+2132600;Manufacture of cardboard packaging  including the manufacture of corrugated cardboard
+2142300;Manufacture of tapes and continuous forms  printed or not
+2141500;Manufacture of paper, cardboard, cardboard and cardboard artifacts for the office
+2219500;Edition, editing and printing of other graphic products
+2149001;Manufacture of disposable diapers and sanitary napkins
+2149001;Manufacture of disposable diapers and sanitary napkins
+2149099;Manufacture of other folders, paper, cardboard, paperboard and cardboard artifacts
+2149099;Manufacture of other folders, paper, cardboard, paperboard and cardboard artifacts
+2221700;Printing newspapers, magazines and books
+2221700;Printing newspapers, magazines and books
+2222503;​
+2222502;Material printing for industrial, commercial and advertising use
+2222501;Printing material for school use
+2222502;Material printing for industrial, commercial and advertising use
+2229202;Composition of matrices for graphic printing
+2229201;Binding and laminating services
+2229203;​
+2229299;Other graphic services
+2231400;Disc and tape playback
+2232200;Playback of video tapes
+2234900;Playback of computer programs on floppy disks and tapes
+2310800;​
+2321300;petroleum refining
+2329901;​
+2329902;​
+2329901;Fuel formulation
+2340000;​
+2429599;Manufacture of other organic chemicals
+2411200;​
+2412000;​
+2413900;​
+2414700;​
+2330200;​
+2419800;Manufacture of other inorganic products
+2421000;​
+2422800;Manufacture of intermediates for resins and fibers
+2429599;Manufacture of other organic chemicals
+2431700;​
+2432500;​
+2433300;​
+2441400;Manufacture of artificial fibers, yarns, cables and continuous filaments
+2442200;Manufacture of synthetic fibers, yarns, cables and continuous filaments
+2461900;manufacture of insecticides
+2462700;manufacture of fungicides
+2463500;manufacture of herbicides
+2469400;Manufacture of other agricultural pesticides
+2461900;manufacture of insecticides
+2462700;manufacture of fungicides
+2463500;manufacture of herbicides
+2469400;Manufacture of other agricultural pesticides
+2471600;Manufacture of soaps, soaps and synthetic detergents
+2472400;​
+2471600;Manufacture of soaps, soaps and synthetic detergents
+2473200;Manufacture of perfumery and cosmetics
+2481300;​
+2482100;​
+2483000;​
+2491000;​
+2492901;​
+2492902;​
+3699402;​
+2494500;​
+2493700;​
+2495300;​
+2499600;Manufacture of other unspecified or unclassified chemicals
+2451100;​
+2452001;​
+2452002;​
+2452001;Manufacture of allopathic medicines for human use
+2453800;​
+2330200;Elaboration of nuclear fuels
+2454600;Manufacture of materials for medical, hospital and dental uses
+2511900;​
+2512700;Tire reconditioning
+2519400;Manufacture of various rubber products
+2521600;Manufacture of flat and tubular plastic laminates
+2522400;Plastic packaging manufacturing
+2529103;Manufacture of plastic material artifacts for use in civil construction
+2529101;Manufacture of plastic articles for personal and domestic use, whether or not reinforced with fiberglass
+2529102;Manufacture of plastic artifacts for industrial uses  except in the construction industry
+2529103;Manufacture of plastic material artifacts for use in civil construction
+2529199;Manufacture of plastic material artifacts for other uses
+3699499;Manufacture of various products
+2611500;​
+2612300;​
+2619000;​
+2620400;​
+2630101;Manufacture of precast reinforced concrete structures, in series or to order
+2630102;Manufacture of cement artifacts for use in civil construction
+2630103;Manufacture of fiber cement artifacts for use in civil construction
+2630104;​
+2630105;​
+2630199;Manufacture of other artifacts or products made of concrete, cement, fiber cement, plaster and stucco
+2642500;​
+2641702;​
+2641701;Manufacture of ceramic or baked clay artifacts for use in civil construction  except tiles and floors
+2649201;​
+2649299;Manufacture of other nonrefractory ceramic products for various uses
+2691301;Stone crushing (not associated with extraction)
+2691302;Stone rigging for construction (not associated with extraction)
+2691303;​
+2692100;Manufacture of quicklime, hydrated lime and gypsum
+3699401;Decorating, cutting, engraving, mirroring, bevelling, glazing and other work in ceramics, china, glass or crystal
+2699900;Manufacture of other nonmetallic mineral products
+2713800;​
+2714600;​
+2723500;​
+2724301;​
+2724302;​
+2725101;Production of seamless tubes and pipes
+2725199;Production of other long rolled steel
+2726001;​
+2726002;Production of rerolled, drawn and profiled steel  except wires
+2731600;Manufacture of welded steel tubes
+2739100;Manufacture of other iron and steel tubes
+2741301;Metallurgy of aluminum and its alloys
+2741302;​
+2742100;​
+2749999;Metallurgy of other nonferrous metals
+2749901;zinc metallurgy
+2749902;​
+2749903;Production of solders and anodes for electroplating
+2330200;Elaboration of nuclear fuels
+2749999;Metallurgy of other nonferrous metals
+2751000;Production of iron and steel castings
+2752900;Production of castings of nonferrous metals and their alloys
+2811800;Manufacture of metallic structures for buildings, bridges, transmission towers, scaffolding and other purposes, including madetoorder
+2812600;​
+2813400;​
+2821500;​
+2822300;Manufacture of steam generating boilers  except for central heating and for vehicles
+2831200;​
+2832000;​
+2833900;​
+2834700;​
+2839800;Tempering, carburizing and heat treatment of steel, machining, electroplating and welding services
+2841000;​
+2842800;Manufacture of locksmith articles  except frames
+2843600;Hand tool manufacturing
+2969600;Manufacture of other machines and equipment for specific use  including parts
+2972600;Manufacture of heavy military equipment
+2971800;​
+2891600;​
+2892401;Manufacture of drawn standardized iron, steel and nonferrous metal products
+2892499;Manufacture of other drawn iron, steel and nonferrous metal products
+2893200;Manufacture of bodywork and metal articles for household and personal use
+2899100;Manufacture of other elaborate metal products
+2899100;Manufacture of other elaborate metal products
+3210700;Basic electronics manufacturing
+3021000;computer manufacturing
+3022800;Manufacture of peripheral equipment for electronic machines for processing information
+3221200;Manufacture of radio and television transmitting equipment and equipment for telephone stations, for radiotelephony and radiotelegraphy, microwave ovens and repeaters  including parts
+3192500;Manufacture of devices and equipment for signaling and alarm
+3222000;Manufacture of telephone sets, intercom systems and the like  including parts
+3230100;Manufacture of radio and television receivers and sound and video reproduction, recording or amplification equipment
+3320000;Manufacture of measuring, testing and control apparatus and instruments  except equipment for industrial process control
+3330800;Manufacture of machines, devices and equipment for electronic systems dedicated to industrial automation and control of the production process
+3350200;​
+3310301;Manufacture of apparatus, equipment and furniture for hospital installations, in medical and dental offices and for laboratories
+3310302;Manufacture of instruments and utensils for medical, surgical, dental and laboratory uses
+3340502;Manufacture of optical instruments, parts and accessories
+3340501;​
+2496100;Manufacture of blank discs and tapes
+3111900;Manufacture of direct or alternating current generators, including parts
+3112700;Manufacture of transformers, inductors, converters, synchronizers and the like, including parts
+3113500;Manufacture of electric motors, including parts
+3141000;Manufacture of cells, batteries and electric accumulators  except for vehicles
+3142901;Manufacture of batteries and accumulators for vehicles
+3142902;Reconditioning of batteries and accumulators for vehicles
+3121600;Manufacture of substations, switchboards, voltage regulators and other devices and equipment for distribution and control of electrical energy, including parts
+3122400;​
+3130500;​
+3340502;Manufacture of optical instruments, parts and accessories
+3151800;​
+3152600;Manufacture of luminaires and lighting equipment  except for vehicles
+2981500;Manufacture of stoves, refrigerators and washing and drying machines for domestic use  including parts
+2989000;Manufacture of other household appliances  including parts
+2989000;Manufacture of other household appliances  including parts
+3191700;​
+3192500;Manufacture of devices and equipment for signaling and alarm
+2940800;Machine tool manufacturing  including parts
+3199200;Manufacture of other electrical appliances or equipment
+2911400;Manufacture of stationary internal combustion engines, turbines and other nonelectric prime movers, including parts except for aircraft and road vehicles
+2912200;Manufacture of pumps and hydraulic rams, including parts
+2913000;Manufacture of valves, faucets and valves, including parts
+2914900;Manufacture of compressors, including parts
+2914900;Manufacture of compressors, including parts
+2915700;Manufacture of transmission equipment for industrial purposes  including bearings and parts
+2915700;Manufacture of transmission equipment for industrial purposes  including bearings and parts
+2921100;Manufacture of industrial furnaces, nonelectric apparatus and equipment for thermal installations, including parts
+2922000;Manufacture of electric stoves and ovens for industrial purposes  including parts
+2923800;Manufacture of machinery, equipment for transporting and lifting loads and people  including parts
+2923800;Manufacture of machinery, equipment for transporting and lifting loads and people  including parts
+2924600;Manufacture of refrigeration and ventilation machines and equipment for industrial and commercial use  including parts
+2925400;Manufacture of air conditioning equipment
+2925400;Manufacture of air conditioning equipment
+2929700;Manufacture of other general purpose machinery and equipment  including parts
+3011200;Manufacture of typewriters, calculating machines, copiers and other nonelectronic office equipment  including parts
+3012000;Manufacture of typewriters and calculators, copiers and other electronic equipment for management and commercial automation  including parts
+2929700;Manufacture of other general purpose machinery and equipment  including parts
+3699499;Manufacture of various products
+2932700;Manufacture of agricultural tractors  including parts
+2931900;Manufacture of machinery and equipment for agriculture, poultry and obtaining animal products  including parts
+2931900;Manufacture of machinery and equipment for agriculture, poultry and obtaining animal products  including parts
+2940800;Machine tool manufacturing  including parts
+2951300;Manufacture of machinery and equipment for prospecting and extracting oil  including parts
+2952100;Manufacture of other machines and equipment for use in mineral extraction and construction  including parts
+2953000;Manufacture of crawler tractors and tractors for use in mineral extraction and construction  including parts
+2952100;Manufacture of other machines and equipment for use in mineral extraction and construction  including parts
+2954800;Manufacture of earthmoving and paving machinery and equipment
+2961000;Manufacture of machinery for the metallurgical industry, including parts  except machine tools
+2962900;Manufacture of machinery and equipment for the food, beverage and tobacco industries  including parts
+2963700;Manufacture of machinery and equipment for the textile industry  including parts
+2964500;Manufacture of machinery and equipment for the clothing, leather and footwear industries  including parts
+2965300;Manufacture of machines and devices for the pulp, paper and cardboard industry and artifacts  including parts
+2969600;Manufacture of other machines and equipment for specific use  including parts
+2969600;Manufacture of other machines and equipment for specific use  including parts
+3410001;​
+3410002;​
+3410003;​
+3420701;​
+3420702;​
+3431200;Manufacture of cabins, bodies and trailers for trucks
+3432000;​
+3439800;Manufacture of cabins, bodies and trailers for other vehicles
+3441000;Manufacture of parts and accessories for the engine system
+3442800;Manufacture of parts and accessories for gear and transmission systems
+3443600;Manufacture of parts and accessories for the brake system
+3444400;Manufacture of parts and accessories for the steering and suspension system
+3160700;Manufacture of electrical material for vehicles  except batteries
+3449501;​
+3449502;Manufacture of parts and accessories for motor vehicles, not classified in another subclass
+3450900;Reconditioning or recovery of engines for motor vehicles
+3511401;Construction and repair of large vessels
+3511402;Construction of vessels for commercial use and for special uses  except large ones
+3512201;​
+3521100;Construction and assembly of locomotives, wagons and other rolling stock
+3522000;​
+3531900;Aircraft construction and assembly
+3531900;Aircraft construction and assembly
+2972600;Manufacture of heavy military equipment
+3591200;Motorcycle manufacturing  including parts
+3592000;Manufacture of nonmotorized bicycles and tricycles  including parts
+3699499;Manufacture of various products
+3599800;Manufacture of other transport equipment
+3611001;​
+3310301;Manufacture of apparatus, equipment and furniture for hospital installations, in medical and dental offices and for laboratories
+3612901;​
+3613701;Manufacture of furniture from other materials
+3614500;​
+3691901;​
+3691902;The manufacture of jewelery and goldsmith artifacts
+3691903;Minting of coins and medals
+3699499;Manufacture of various products
+3692700;​
+3693500;Manufacture of artifacts for hunting, fishing and sport
+3694399;Manufacture of toys and other recreational games
+3694301;Manufacture of pool tables, snooker tables and accessories, not associated with the lease
+3694302;Manufacture of pool tables, snooker tables and accessories associated with the lease
+3694399;Manufacture of toys and other recreational games
+3310302;Manufacture of instruments and utensils for medical, surgical, dental and laboratory uses
+3320000;Manufacture of measuring, testing and control apparatus and instruments  except equipment for industrial process control
+3310301;Manufacture of apparatus, equipment and furniture for hospital installations, in medical and dental offices and for laboratories
+3310303;Manufacture of devices and utensils for correcting physical defects and orthopedic devices in general  including madetoorder
+3310303;Manufacture of devices and utensils for correcting physical defects and orthopedic devices in general  including madetoorder
+2454600;Manufacture of materials for medical, hospital and dental uses
+3310305;​
+1822800;Manufacture of accessories for industrial and personal safety
+3340503;Optical material manufacturing
+3340504;Optical laboratory services
+1764700;Manufacture of special fabrics  including artifacts
+3697800;​
+1813901;Manufacture of professional clothing  except madetomeasure
+2699900;Manufacture of other nonmetallic mineral products
+1822800;Manufacture of accessories for industrial and personal safety
+2029002;Manufacture of various bamboo, straw, wicker, cork and braided materials  except furniture
+2529199;Manufacture of plastic material artifacts for other uses
+2899100;Manufacture of other elaborate metal products
+3699499;Manufacture of various products
+3695100;Manufacture of pens, pencils, printer ribbons for machines and other office supplies
+2529199;Manufacture of plastic material artifacts for other uses
+2899100;Manufacture of other elaborate metal products
+3152600;Manufacture of luminaires and lighting equipment  except for vehicles
+3696000;​
+3699499;Manufacture of various products
+2881900;Maintenance and repair of tanks, metallic reservoirs and boilers for central heating
+2882700;Maintenance and repair of steam generating boilers  except for central heating and for vehicles
+3392800;Maintenance and repair of measuring, testing and control apparatus and instruments  except equipment for industrial process control
+3393600;Maintenance and repair of machines, devices and equipment of electronic systems dedicated to industrial automation and control of the production process
+3391000;Maintenance and repair of apparatus and utensils for medical, hospital, dental and laboratory use
+3394400;Maintenance and repair of optical and cinematographic apparatus and instruments
+3181001;Maintenance and repair of direct or alternating current generators
+3181002;Maintenance and repair of transformers, inductors, converters, synchronizers and the like
+3181003;Maintenance and repair of electric motors
+3182800;Maintenance and repair of batteries and electric accumulators  except for vehicles
+3189500;​
+2991201;​
+2991202;Maintenance and repair of pumps and hydraulic rams
+2991203;​
+2991204;​
+2991205;​
+2992001;Maintenance and repair of industrial furnaces, nonelectric apparatus and equipment for heating installations
+2992002;Maintenance and repair of electric stoves and ovens for industrial purposes
+2992003;Maintenance and repair of refrigeration and ventilation machines and apparatus for industrial and commercial use
+2992004;​
+2992005;Maintenance and repair of selfmade elevators, escalators and moving walkways
+7250800;Maintenance, repair and installation of office and computer machines
+2992099;Maintenance and repair of other general purpose machinery and equipment
+2993901;Maintenance and repair of machinery and equipment for agriculture, poultry and obtaining animal products
+2993902;​
+2994700;​
+2995501;Maintenance and repair of machinery and equipment for oil prospecting and extraction
+2995502;Maintenance and repair of other machines and equipment for use in mineral extraction and construction
+2995503;Maintenance and repair of crawler tractors and tractors for use in mineral extraction and construction
+2995504;Maintenance and repair of earthmoving and paving machinery and equipment
+2995502;Maintenance and repair of other machines and equipment for use in mineral extraction and construction
+2995504;Maintenance and repair of earthmoving and paving machinery and equipment
+2996301;Maintenance and repair of machines for the metallurgical industry  except machine tools
+2996302;Maintenance and repair of machinery and equipment for the food, beverage and tobacco industries
+2996303;Maintenance and repair of machines and equipment for the textile industry
+2996304;Maintenance and repair of machinery and equipment for the clothing, leather and footwear industries
+2996305;Maintenance and repair of machines and devices for the pulp, paper, cardboard and artifacts industry
+2996399;Maintenance and repair of other machines and equipment for specific use
+2996399;Maintenance and repair of other machines and equipment for specific use
+3523800;Repair of railway vehicles
+3532700;aircraft repair
+6323102;​
+3511401;Construction and repair of large vessels
+3511403;Repair of vessels for commercial use and for special uses  except for large vessels
+6322303;Hull cleaning and maintenance of ships in port
+3512202;Repair of boats for sport and leisure
+2023000;Manufacture of cooperage artifacts and wooden packaging
+2891600;Manufacture of metal packaging
+2899100;Manufacture of other elaborate metal products
+3431200;Manufacture of cabins, bodies and trailers for trucks
+3694399;Manufacture of toys and other recreational games
+2813400;Manufacture of heavy boiler works
+2821500;Manufacture of tanks, metallic reservoirs and boilers for central heating
+2822300;Manufacture of steam generating boilers  except for central heating and for vehicles
+2911400;Manufacture of stationary internal combustion engines, turbines and other nonelectric prime movers, including parts except for aircraft and road vehicles
+2912200;Manufacture of pumps and hydraulic rams, including parts
+2913000;Manufacture of valves, faucets and valves, including parts
+2914900;Manufacture of compressors, including parts
+2915700;Manufacture of transmission equipment for industrial purposes  including bearings and parts
+2921100;Manufacture of industrial furnaces, nonelectric apparatus and equipment for thermal installations, including parts
+2922000;Manufacture of electric stoves and ovens for industrial purposes  including parts
+2923800;Manufacture of machinery, equipment for transporting and lifting loads and people  including parts
+2924600;Manufacture of refrigeration and ventilation machines and equipment for industrial and commercial use  including parts
+2929700;Manufacture of other general purpose machinery and equipment  including parts
+2931900;Manufacture of machinery and equipment for agriculture, poultry and obtaining animal products  including parts
+2940800;Machine tool manufacturing  including parts
+2951300;Manufacture of machinery and equipment for prospecting and extracting oil  including parts
+2952100;Manufacture of other machines and equipment for use in mineral extraction and construction  including parts
+2954800;Manufacture of earthmoving and paving machinery and equipment
+2961000;Manufacture of machinery for the metallurgical industry, including parts  except machine tools
+2962900;Manufacture of machinery and equipment for the food, beverage and tobacco industries  including parts
+2963700;Manufacture of machinery and equipment for the textile industry  including parts
+2964500;Manufacture of machinery and equipment for the clothing, leather and footwear industries  including parts
+2965300;Manufacture of machines and devices for the pulp, paper and cardboard industry and artifacts  including parts
+2969600;Manufacture of other machines and equipment for specific use  including parts
+3111900;Manufacture of direct or alternating current generators, including parts
+3112700;Manufacture of transformers, inductors, converters, synchronizers and the like, including parts
+3113500;Manufacture of electric motors, including parts
+3121600;Manufacture of substations, switchboards, voltage regulators and other devices and equipment for distribution and control of electrical energy, including parts
+3192500;Manufacture of devices and equipment for signaling and alarm
+3199200;Manufacture of other electrical appliances or equipment
+3221200;Manufacture of radio and television transmitting equipment and equipment for telephone stations, for radiotelephony and radiotelegraphy, microwave ovens and repeaters  including parts
+3310301;Manufacture of apparatus, equipment and furniture for hospital installations, in medical and dental offices and for laboratories
+3320000;Manufacture of measuring, testing and control apparatus and instruments  except equipment for industrial process control
+3330800;Manufacture of machines, devices and equipment for electronic systems dedicated to industrial automation and control of the production process
+3340502;Manufacture of optical instruments, parts and accessories
+3611002;Wood furniture assembly services for end consumers
+3612902;End consumer metal furniture assembly services
+3613702;Assembly services for furniture made of different materials (except wood and metal), for the final consumer
+3699499;Manufacture of various products
+4011800;Electricity production (generation), including integrated production
+4012600;​
+4013400;Commercialization of electricity
+4014200;​
+4020701;Production and distribution of gas through pipelines
+4020702;Distribution of gaseous fuels of any type by piping system
+4030400;Production and distribution of steam and hot water
+4100900;​
+5269800;Water trade through tanker car
+9000003;​
+9000099;Other activities related to urban cleaning and sewage
+4550099;Other construction finishing works
+9000001;Urban cleaning  except landfill management
+2330200;Elaboration of nuclear fuels
+9000001;Urban cleaning  except landfill management
+9000001;Urban cleaning  except landfill management
+9000002;Sanitary landfill management
+2330200;Elaboration of nuclear fuels
+9000002;Sanitary landfill management
+3710901;Aluminum scrap recycling
+3710999;Recycling of other scrap metal
+3720600;Nonmetallic scrap recycling
+9000001;Urban cleaning  except landfill management
+3720600;Nonmetallic scrap recycling
+9000099;Other activities related to urban cleaning and sewage
+7010600;Incorporation and purchase and sale of real estate
+4521701;Buildings (residential, industrial, commercial and services)
+4522501;Road works (roads, railways and airports)
+4522502;​
+4523300;special works of art
+4522503;Urbanization and landscaping works
+4531401;​
+4531402;​
+4531403;​
+4533001;Construction of telephony and communication stations and networks
+4533002;Maintenance of telephony and communications stations and networks
+4529203;Construction of water and sewer networks
+4529202;​
+4529204;Construction of pipeline transport networks
+4529201;Maritime and river works
+4525001;Assembly of metal structures  except temporary ones
+4525003;​
+4521701;Buildings (residential, industrial, commercial and services)
+4529299;Other civil engineering works
+4511001;​
+4560800;Rental of construction and demolition machinery and equipment with workers
+4511002;land preparation
+4512802;Surveys for civil construction
+4511002;land preparation
+4513600;Earthmoving and other earth moving
+4560800;Rental of construction and demolition machinery and equipment with workers
+4511002;land preparation
+4513600;Earthmoving and other earth moving
+4541101;Electrical installation and maintenance in buildings
+4543801;​
+4542000;​
+4543802;​
+4549704;ad installation
+4549702;Installation of equipment for guiding river and lake maritime navigation
+4541102;Installation, maintenance and repair of elevators, escalators and moving walkways  except for own manufacture
+4549701;​
+4549703;Acoustic and thermal treatments
+4549799;Other installation works
+4550003;​
+4550005;Installation of doors, windows, ceilings, partitions and builtin cabinets in any material, including frames
+4550002;​
+4550004;General building painting services
+4560800;Rental of construction and demolition machinery and equipment with workers
+4550006;Interior and exterior coating and resin application services
+4560800;Rental of construction and demolition machinery and equipment with workers
+4550001;Masonry and plastering works
+4550099;​
+4512801;Foundations for civil construction
+4560800;Rental of construction and demolition machinery and equipment with workers
+4521702;​
+4525002;​
+4550001;Masonry and plastering works
+4560800;Rental of construction and demolition machinery and equipment with workers
+4529205;​
+4529299;Other civil engineering works
+4550099;Other construction finishing works
+4560800;Rental of construction and demolition machinery and equipment with workers
+5010502;​
+5010506;​
+5010501;Wholesale of cars, vans and SUVs, new and used
+5010503;​
+5010504;​
+5010505;​
+5010507;​
+5010507;Sales representatives and agents of the trade of motor vehicles
+5020201;Car maintenance and repair services
+5020202;Maintenance and repair services for trucks, buses and other heavy vehicles
+5020201;Car maintenance and repair services
+5020202;Maintenance and repair services for trucks, buses and other heavy vehicles
+5020201;Car maintenance and repair services
+5020202;Maintenance and repair services for trucks, buses and other heavy vehicles
+5020201;Car maintenance and repair services
+5020202;Maintenance and repair services for trucks, buses and other heavy vehicles
+5020203;Vehicle washing, lubrication and polishing services
+5020204;Rubber and rubber services
+5020205;​
+5030001;​
+5030002;Wholesale of tires and inner tubes
+5030003;​
+5030006;​
+5030004;Retail sale of tires and inner tubes
+5030005;​
+5041501;​
+5041502;​
+5041503;Retail sale of motorcycles and scooters
+5041503;Retail sale of motorcycles and scooters
+5041504;​
+5041505;Sales representatives and agents in the trade of parts and accessories for motorcycles and scooters
+5041505;Sales representatives and agents in the trade of parts and accessories for motorcycles and scooters
+5042300;​
+5111000;Sales representatives and agents in the trade of agricultural raw materials, live animals, textile raw materials and semifinished products
+5112800;Sales representatives and agents in the trade of fuels, minerals, metals and industrial chemicals
+5113600;​
+5114400;Sales representatives and agents in the trade of machinery, industrial equipment, ships and aircraft
+5115200;Sales representatives and agents in the furniture and household items trade
+5116000;Sales representatives and agents in the textile, clothing, footwear and leather goods trade
+5117900;​
+5118700;Sales representatives and agents of trade specialized in products not previously specified
+5118700;Sales representatives and agents of trade specialized in products not previously specified
+5118700;Sales representatives and agents of trade specialized in products not previously specified
+5118700;Sales representatives and agents of trade specialized in products not previously specified
+5119500;Commercial representatives and agents of the trade of goods in general (nonspecialized)
+5121703;​
+5121704;​
+5122501;Cattle wholesale trade
+5122502;Equine wholesale trade
+5122503;Wholesale of sheep
+5122504;Pork wholesale trade
+5122505;Wholesale of other live animals
+5122506;Wholesale trade of hides, skins, horns, bones, hooves, mane, wool, raw hair and bristles, feathers and down
+5121702;​
+5121705;​
+5121706;Cocoa berry wholesale
+5121707;​
+5121708;​
+5121709;Wholesale trade of in natura agricultural products with fractionation and associated packaging activity
+5121701;Wholesale trade of industrialized food products for animals  except domestic ones
+5139007;Wholesale trade of food products for domestic animals
+5121799;"Wholesale trade of other ""in natura"" cereals, legumes and various agricultural raw materials"
+5131400;Wholesale of milk and milk products
+5132201;Wholesale trade of processed cereals and processed legumes
+5132202;​
+5132203;​
+5133001;​
+5133002;​
+5133003;​
+5134900;Wholesale of meat and meat products
+5134900;Wholesale of meat and meat products
+5135700;​
+5134900;Wholesale of meat and meat products
+5136501;​
+5136502;​
+5136503;​
+5136599;Wholesale of other beverages in general
+5137301;​
+5137302;​
+5139001;​
+5139002;​
+5139003;​
+5139004;​
+5139005;Wholesale of pasta in general
+5139006;​
+5139008;​
+5139099;Wholesale of other food products
+5139099;Wholesale of other food products
+5139009;Wholesale trade of other food products not previously specified, with associated fractionation and packaging activity
+5141102;​
+5141103;​
+5141104;​
+5142001;Wholesale trade of clothing and accessories  except professional and security
+5142002;​
+5143800;​
+5142003;​
+5145401;Wholesale of pharmaceutical products for human use
+5145402;Wholesale trade of pharmaceutical products for veterinary use
+5145403;Wholesale of medical, surgical, hospital and laboratory instruments and materials
+5145404;​
+5145405;​
+5146201;​
+5146202;​
+5147001;​
+5147002;​
+5144601;Wholesale trade of electrical machinery, appliances and equipment for personal and domestic use
+5144602;​
+5149702;​
+5149703;Wholesale of furniture
+5149704;Wholesale trade of upholstery, bedding, blinds and curtains
+5149704;Wholesale trade of upholstery, bedding, blinds and curtains
+5149705;​
+5149706;Wholesale of films, tapes and records
+5149701;​
+5149707;​
+5149708;Wholesale trade of jewelry, watches and costume jewelry, including polished precious and semiprecious stones
+5149799;Wholesale of other articles for personal and household use
+5192600;Specialized wholesale trade in goods not otherwise specified
+5165901;Wholesale trade of computer equipment, parts and pieces
+5165901;Wholesale trade of computer equipment, parts and pieces
+5165902;Wholesale trade of communication equipment, parts and pieces
+5161600;Wholesale of machinery, apparatus and equipment for agricultural use, your parts and accessories
+5169101;Wholesale of machinery, apparatus and equipment for industrial use, your parts and accessories
+5169101;Wholesale of machinery, apparatus and equipment for industrial use, your parts and accessories
+5169102;Wholesale of machinery, apparatus, equipment and dentalmedicalhospital and laboratory materials, your parts and accessories
+5164001;Wholesale trade of machinery and equipment for trade, parts and pieces
+5169103;Wholesale trade of pumps and compressors, your parts and accessories
+5164002;Wholesale trade of machines and equipment for the office, parts and pieces
+5169199;Wholesale of machinery, apparatus and equipment for other uses not previously specified, your parts and accessories
+5192600;Specialized wholesale trade in goods not otherwise specified
+5153501;Wholesale trade in raw wood and byproducts
+5153503;​
+5153505;Wholesale trade of electrical material for construction
+5153502;​
+5153504;​
+5153506;​
+5153507;Wholesale trade of glass, mirrors, stained glass and frames
+5153599;Wholesale of other building materials
+5153599;Wholesale of other building materials
+5151901;Wholesale trade of fuel alcohol, gasoline and other petroleum products  except retail carrier (TRR) and lubricants
+5151902;​
+5151904;Wholesale trade of fuels of vegetable origin  except fuel alcohol
+5151905;​
+5151906;​
+5151903;Wholesale trade of liquefied petroleum gas (LPG)
+5154301;​
+5154302;​
+5154303;​
+5154399;Wholesale of other chemical products
+5159403;Wholesale trade of steel and metallurgical products  except for construction
+5159402;​
+5159401;​
+5155103;Wholesale trade of recyclable paper and cardboard waste
+5155102;Wholesale trade of nonmetallic waste and scrap  except recyclable paper and cardboard
+5155101;​
+5152700;Wholesale trade of extractive products of mineral origin  except fuels
+5141101;Wholesale of textile yarns and fibers
+5159499;Wholesale trade of other nonagricultural intermediate products, not otherwise specified
+5192600;Specialized wholesale trade in goods not otherwise specified
+5191801;Wholesale trade of goods in general without predominance of articles for use in agriculture
+5191802;Wholesale trade of articles for use in agriculture
+5191801;Wholesale trade of goods in general without predominance of articles for use in agriculture
+5211600;Retail trade of goods in general, with a predominance of food products, with a sales area of ​​more than 5000 square meters  hypermarkets
+5212400;Retail trade of goods in general, with a predominance of food products, with a sales area between 300 and 5000 square meters  supermarkets
+5213201;minimarkets
+5213202;Grocery stores and retail stores
+5215901;​
+5215902;Variety stores  except department stores or department stores
+5215903;​
+1581402;Manufacture of bakery, confectionery and pastry products  except industrialized
+5221301;Retail sale of bakery and confectionery products
+5221302;Retail trade of dairy products, cold cuts and preserves
+5222100;Retail sale of candies, bonbons and the like
+5223000;​
+5229903;​
+5224800;​
+5229902;​
+5229901;​
+5214000;Retail sale of goods in convenience stores
+5229999;Retail sale of other food products not otherwise specified
+5050400;Retail sale of fuels and lubricants for motor vehicles
+5050400;Retail sale of fuels and lubricants for motor vehicles
+5244203;Retail sale of paint supplies
+5244205;Retail sale of electrical materials for construction
+5244202;Retail sale of glass, mirrors, stained glass and frames
+5244201;Retail sale of hardware, tools and metallurgical products
+5244204;Retail trade of wood and its artifacts
+5244206;​
+5244207;​
+5244299;​
+5244208;​
+5245002;Retail sale of machinery, equipment and IT materials
+5245003;Retail sale of machinery, equipment and communication materials
+5242601;Retail sale of electrical and electronic machinery, apparatus and equipment for domestic and personal use  except computer equipment
+5243401;​
+5243402;​
+5243404;​
+5231001;​
+5231002;Retail sale of haberdashery items
+5231003;Retail sale of bed, table and bath articles
+5242603;Retail sale of musical instruments and accessories
+5249312;Retail sale of parts and accessories for home appliances and electronic devices  except computer parts and accessories
+5243403;Upholstery retail trade
+5242601;Retail sale of electrical and electronic machinery, apparatus and equipment for domestic and personal use  except computer equipment
+5243499;Retail sale of other household items
+5246901;​
+5246903;​
+5246902;​
+5242604;Retail trade of records and tapes
+5249306;​
+5249305;​
+5249304;Retail trade of bicycles and tricycles, your parts and accessories
+5249308;Retail sale of hunting, fishing and camping articles
+5249314;Retail sale of boats and other recreational vehicles, your parts and accessories
+5241801;​
+5241803;​
+5241802;​
+5241806;​
+5241804;Retail sale of perfumery, cosmetics and toiletries
+5241805;​
+5249301;Retail trade of optical articles
+5232900;Retail sale of clothing items and accessories
+5233701;​
+5233702;Retail trade of leather and travel goods
+5249302;Retail sale of watches and jewelery
+5249302;Retail sale of watches and jewelery
+5247700;​
+5250701;​
+5250799;​
+5249303;Retail sale of souvenirs, costume jewelry and handicrafts
+5249307;Retail sale of natural and artificial plants and flowers and ornamental fruits
+5249310;​
+5249311;Retail sale of animal items, feed and live animals for domestic breeding
+5249315;Retail sale of sanitizing products  household cleaning products
+5249313;​
+5245001;Retail sale of office machinery and equipment
+5242602;Retail trade of photographic and cinematographic articles
+5249309;​
+5244202;Retail sale of glass, mirrors, stained glass and frames
+5249399;​
+6010002;Rail freight transport, intercity and interstate
+6010001;Rail transport of passengers, intercity and interstate
+6021600;Municipal and intercity metropolitan railway passenger transport
+6029100;Regular transport on trams, funiculars, cable cars or trains for exploring tourist spots
+6022400;​
+6023201;Passenger road transport, regular, urban municipal
+6023202;Passenger road transport, regular, metropolitan intercity
+6024001;Passenger road transport, regular, nonurban municipal
+6024002;Passenger road transport, regular, intercity
+6024003;Passenger road transport, regular, interstate
+6024004;Passenger road transport, regular, international
+6025901;taxi services
+6025902;Leasing of passenger road vehicles with driver, municipal
+6025906;municipal school transport
+6025907;intercity school transport
+6025902;Leasing of passenger road vehicles with driver, municipal
+6025903;Leasing of passenger road vehicles with driver, intercity, interstate and international
+6025904;Organization of excursions in municipal road vehicles
+6025905;​
+6025903;Leasing of passenger road vehicles with driver, intercity, interstate and international
+6026701;Road freight transport in general, municipal
+6026703;Leasing of road freight vehicles with driver
+6026702;Road transport of cargo in general, intercity, interstate and international
+6026703;Leasing of road freight vehicles with driver
+6027500;​
+6028301;​
+6030500;​
+6029100;Regular transport on trams, funiculars, cable cars or trains for exploring tourist spots
+6111500;cabotage maritime transport
+6111500;cabotage maritime transport
+6112300;Long sea shipping
+6112300;Long sea shipping
+6122001;Inland freight transport, municipal, nonurban
+6122002;Transport by inland cargo navigation, intercity, nonurban, interstate and international
+6121201;Passenger inland waterway transport, municipal, nonurban
+6121202;Transport by inland passenger navigation, intercity nonurban, interstate and international
+6322302;Towage in estuaries and ports
+6322399;Other auxiliary activities of water transport
+6322302;Towage in estuaries and ports
+6322399;Other auxiliary activities of water transport
+6123901;Municipal, urban water transport
+6123902;Intercity, urban water transport
+6111500;cabotage maritime transport
+6121201;Passenger inland waterway transport, municipal, nonurban
+6121202;Transport by inland passenger navigation, intercity nonurban, interstate and international
+6121201;Passenger inland waterway transport, municipal, nonurban
+6121202;Transport by inland passenger navigation, intercity nonurban, interstate and international
+6210300;Air transport, regular
+6220001;Air taxi services and aircraft rental with crew
+6220002;Other nonscheduled air transport services
+6210300;Air transport, regular
+6220002;Other nonscheduled air transport services
+6230800;​
+6312601;General warehouses (issuance of warrants)
+6028302;furniture storage service
+6312602;Other warehouses for goods for third parties
+6311800;​
+6321502;Operation of bridges, tunnels, highways and related services
+6321501;​
+6321503;Car parking exploration
+6321504;Call centers and taxi reservations
+5020206;​
+6321599;Other activities auxiliary to land transport
+6322301;Operation of ports and terminals
+6322301;Operation of ports and terminals
+6340103;freight forwarding
+6340199;Other activities related to the organization of cargo transport
+6322399;Other auxiliary activities of water transport
+6323101;Operation of airports and landing fields
+6323102;Aircraft maintenance on the runway
+6323199;Other auxiliary activities of air transport
+6340102;stewardship activities
+6340101;​
+6340103;freight forwarding
+6340104;Logistics organization of cargo transport  multimodal transport operator
+6340104;Logistics organization of cargo transport  multimodal transport operator
+6411401;​
+6411402;Activities of Correio Nacional carried out by franchising
+6412201;​
+6412202;​
+5513101;Hotel
+5513102;Apart Hotel
+5513103;Motel
+5519001;Hostels  except assistance
+5519002;camping
+5519005;Pension
+5519099;Other types of accommodation
+5521201;restaurant
+5521202;Choperias, whiskeria and other establishments specializing in serving drinks
+5522000;Snack bar, tea houses, juice bars and similar
+5529800;Other catering services (in trailers, kiosks, vehicles and other equipment)
+5524701;​
+5524702;catering services
+5523901;Canteen (private food service)  own operation
+5523902;Canteen (private food service)  exploitation by third parties
+5524703;​
+2215200;Publishing of books, newspapers and magazines
+6593502;copyright management
+7240000;Database activities and online distribution of electronic content
+2215200;Publishing of books, newspapers and magazines
+7240000;Database activities and online distribution of electronic content
+2215200;Publishing of books, newspapers and magazines
+7240000;Database activities and online distribution of electronic content
+2219500;Edition, editing and printing of other graphic products
+7240000;Database activities and online distribution of electronic content
+2216000;Book publishing and printing
+2217900;Newspaper editing and printing
+2218700;Magazine editing and printing
+2219500;Edition, editing and printing of other graphic products
+9211801;​
+9211802;Film and videotape production activities  except film studios
+9211802;Film and videotape production activities  except film studios
+9211803;Dubbing and sound mixing services
+9211803;Dubbing and sound mixing services
+9211899;Other activities related to film and videotape production
+6593502;copyright management
+9212600;Film and video distribution
+9213400;Film and video projection
+2214400;Editing of records, tapes and other recorded material
+6593502;copyright management
+9211804;sound recording studios
+9221500;radio activities
+6420340;Transmission and retransmission of radio signals
+9221500;​
+9222301;​
+9222302;PayTV activities
+9222302;PayTV activities
+6420311;Wired telecommunications  switched fixed telephony
+6420312;Wired Telecommunications  Telecommunications Transport Network Services (SRTT)
+6420399;Other telecommunications
+6420319;Other wired telecommunications services
+6420321;Wireless telecommunications  cellular mobile telephony
+6420322;Wireless telecommunications  specialized mobile service  SME (trunking)
+6420329;Other wireless telecommunications services
+6420330;​
+6420351;Transmission and retransmission of open television signals
+6420352;Transmission and retransmission of payTV signals
+9222302;PayTV activities
+6420352;Transmission and retransmission of payTV signals
+9222302;PayTV activities
+6420352;Transmission and retransmission of payTV signals
+9222302;PayTV activities
+6420380;Providers of access to telecommunications networks
+6420399;Other telecommunications
+6420391;Specialized networks and circuits  specialized limited service
+6420392;Connection service to public telecommunications networks
+6420399;Other telecommunications
+7229000;Custom software development and other software consultancy
+7240000;Database activities and online distribution of electronic content
+7221400;Turnkey software development and editing
+7221400;Turnkey software development and editing
+7210900;hardware consulting
+7229000;Custom software development and other software consultancy
+7290700;Other IT activities, not specified above
+7230300;Data processing
+7240000;Database activities and online distribution of electronic content
+7240000;Database activities and online distribution of electronic content
+9240100;News agency activities
+7499399;Other services provided mainly to companies
+6510200;​
+6521800;​
+6522600;Multiple banks (with commercial portfolio)
+6523400;​
+6524201;​
+6524202;mutual credit unions
+6524202;​
+6524203;​
+6531500;Multiple banks (without commercial portfolio)
+6532300;​
+6533100;​
+6551000;​
+6534001;​
+6534002;​
+6534003;​
+6535800;Credit, financing and investment companies
+6559506;​
+6540400;​
+6592700;​
+6599405;​
+7414400;Management of equity interests (holdings)
+6599403;holding companies
+6591901;Investment funds  except social security
+6591902;​
+6591901;Investment funds  except social security
+6559503;Factoring
+6559505;​
+6559501;consortium management
+6599401;​
+6599402;​
+6599408;​
+6559504;​
+6559507;​
+6559599;Other lending activities
+6599499;Other financial intermediation activities, not previously specified
+6611701;​
+6611702;funeral assistance plans
+6612599;Other nonlife insurance
+6612501;Health insurance
+6613300;​
+6621400;​
+6622200;​
+6630300;​
+6711301;​
+6711302;​
+6711303;​
+6711304;​
+6712101;​
+6712102;​
+6712103;​
+6712104;​
+6712106;Investment agency in financial applications
+6559502;credit card administration
+6719901;​
+6719902;Exchange market settlement boxes
+6719904;​
+6719905;Representation of foreign banks
+6719906;​
+6719999;Other auxiliary activities of financial intermediation, not previously specified
+6719999;Other auxiliary activities of financial intermediation, not previously specified
+6720202;​
+6720203;​
+6720201;Brokers and agents of insurance and private pension and health plans
+6720299;Other ancillary activities of insurance and private pension, not previously specified
+6599407;Management of funds for various purposes  except investments
+6712105;Management of securities portfolios for third parties
+7010600;Incorporation and purchase and sale of real estate
+7020300;real estate rental
+7031900;Real estate brokerage and valuation
+7032700;Thirdparty property management
+7032700;Thirdparty property management
+7411001;​
+7411003;​
+7411004;​
+7411002;notary activities
+7412801;​
+7412802;Accounting audit activities
+7416002;Business management advisory services
+7420901;Architectural technical services
+7420902;Engineering technical services
+7420903;Technical cartography, topography and geodesy services
+7420904;Geological prospecting activities
+7420905;Specialized technical drawing services
+7499399;Other services provided mainly to companies
+7420999;Other specialized technical services
+7430600;Testing of materials and products, quality analysis
+7310500;Research and development of physical and natural sciences
+7320200;Research and development of social sciences and humanities
+7440301;Advertising and publicity agencies
+7440302;Agency and leasing of advertising spaces
+7440399;Other advertising services
+7440399;Other advertising services
+7499399;Other services provided mainly to companies
+7440399;Other advertising services
+7440399;Other advertising services
+7440399;Other advertising services
+7413600;​
+7499399;Other services provided mainly to companies
+7499306;interior decoration services
+7491801;photo studios
+9240100;News agency activities
+7491804;Aerial, underwater and similar photography services
+7491803;​
+7491805;​
+7491806;​
+7499301;​
+7499309;​
+7416001;Advice on agricultural and livestock activities
+7499312;Activity of intermediation and agency of services and business in general, without defined specialization
+7499399;Other services provided mainly to companies
+7499399;Other services provided mainly to companies
+8520000;veterinary services
+7110200;Car rental without driver
+7122600;Rental of boats without crew  except for recreational purposes
+7123400;Aircraft rental without crew
+7121800;Rental of other means of land transport, including containers
+7140405;Rental of sports material and equipment
+7140403;Rental of tapes, videos, discs, cartridges and the like
+7140401;Rental of clothing, jewelry, shoes and other accessories
+7139001;​
+7139004;Rental of materials and equipment for events
+7140402;Rental of furniture, fixtures and appliances for domestic and personal use, including musical instruments
+7140404;Rental of medical and paramedical equipment
+7140499;Rental of other personal and household objects
+7131500;Rental of agricultural machinery and equipment
+7132300;Rental of machinery and equipment for construction and civil engineering, including scaffolding
+7132300;Rental of machinery and equipment for construction and civil engineering, including scaffolding
+7133100;Rental of office machinery and equipment, including computers and telephone equipment
+7139002;​
+7139003;​
+7139004;Rental of materials and equipment for events
+7121800;Rental of other means of land transport, including containers
+7139099;Rental of other commercial, industrial, electrical or nonelectric machinery and equipment, without operator
+6593501;Licensing, buying and selling and leasing of nonfinancial intangible assets  except copyright
+7450001;​
+7450002;Hiring of labor
+7450001;Labor selection and agency
+6330400;Activities of travel agencies and travel organizers
+6330400;Activities of travel agencies and travel organizers
+6330400;Activities of travel agencies and travel organizers
+9232002;Ticket sales agencies for concert halls
+7460802;​
+7460803;​
+7460804;Value transport services
+7460802;Surveillance and private security activities
+7460801;​
+7032700;Thirdparty property management
+7470501;Property cleaning activities
+7040800;Condominiums of residential buildings or not
+7470501;Property cleaning activities
+7470502;Immunization activities and urban pest control
+7470501;Property cleaning activities
+7470502;Immunization activities and urban pest control
+161901;Gardening service  including lawn planting
+7499305;Administrative services for third parties
+7499302;Photocopying, scanning and related services
+7499399;Other services provided mainly to companies
+7499303;Telephone contact services
+7499307;Party and event organization services  except cultural and sports
+7499313;​
+7499308;Billing and registration information services
+7492600;Bottling and packaging activities, on behalf of third parties
+7499310;Electricity, gas and water consumption measurement service
+7499311;Issuance of food, transport and similar vouchers
+7499399;Other services provided mainly to companies
+7499304;auctioneer services
+6599407;Management of funds for various purposes  except investments
+9262202;Activities of concessionaires and the sale of lottery tickets
+7499399;Other services provided mainly to companies
+7499399;Other services provided mainly to companies
+7511600;​
+7514000;Public administration support activities
+7512400;Regulation of social and cultural activities
+7513200;​
+7521300;​
+7522100;​
+7523000;​
+7524800;​
+7525600;​
+7530200;Social Security
+8013600;Early childhood education  kindergartens
+8014400;​
+8015200;​
+8020900;​
+8031400;​
+8032200;​
+8033000;​
+8096900;​
+8097700;​
+7416002;Business management advisory services
+7416002;Business management advisory services
+9261404;​
+8099306;Courses related to arts and culture
+8099306;Courses related to arts and culture
+8099306;Courses related to arts and culture
+8099306;Courses related to arts and culture
+8099303;language courses
+8099301;​
+8099302;​
+8099304;computer courses
+8099305;​
+8099307;Competition preparatory courses
+8099399;​
+8511100;Hospital care activities
+8512000;Urgent and emergency response activities
+8512000;Urgent and emergency response activities
+8512000;Urgent and emergency response activities
+8516207;removals services
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8513802;Dental clinic activities (clinics, offices and outpatient clinics)
+8513803;​
+8516205;sperm bank services
+8513899;Other ambulatory care activities
+8514601;Activities of the pathologicalcytological anatomy laboratories
+8514602;Activities of clinical analysis laboratories
+8514603;dialysis services
+8514604;Xray, radiodiagnosis and radiotherapy services
+8514604;Xray, radiodiagnosis and radiotherapy services
+8514699;Other complementary diagnostic and therapeutic service activities
+8514699;Other complementary diagnostic and therapeutic service activities
+8514699;Other complementary diagnostic and therapeutic service activities
+8514699;Other complementary diagnostic and therapeutic service activities
+8514605;​
+8514604;Xray, radiodiagnosis and radiotherapy services
+8514606;blood bank services
+8514699;Other complementary diagnostic and therapeutic service activities
+8516206;organ banking services
+8514699;Other complementary diagnostic and therapeutic service activities
+8515401;nursing services
+8515402;nutrition services
+8515403;psychology services
+8515404;Physical therapy and occupational therapy services
+8515404;Physical therapy and occupational therapy services
+8515405;speech therapy services
+8515406;Enteral and parenteral nutrition therapy services
+8515499;Other professional health service activities
+8515499;Other professional health service activities
+8516201;Alternative therapy activities
+8516202;acupuncture services
+8516204;Breast milk bank services
+8516299;Other activities related to health care
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8531601;nursing homes
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8531699;Other social services with accommodation
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8532402;Rehabilitation centers for drug addicts without housing
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8531604;Rehabilitation centers for drug addicts with accommodation
+8531699;Other social services with accommodation
+8531602;​
+8531603;​
+8513801;Medical clinic activities (clinics, offices and outpatient clinics)
+8531699;Other social services with accommodation
+8532499;Other social services without housing
+9900700;​
+9309299;Other personal service activities, not otherwise specified
+9231201;theater companies
+9231202;Other artistic companies  except theater
+9231202;Other artistic companies  except theater
+9239801;Production of circus shows, puppets and similar
+9239802;​
+9231299;Other specialized services linked to artistic activities
+9232004;Sound services and other activities related to the management of concert halls
+9231203;Production, organization and promotion of artistic shows and cultural events
+9239899;Other show activities, not specified above
+9231299;Other specialized services linked to artistic activities
+9240100;News agency activities
+9231204;​
+9232001;Exploring showrooms
+9251700;​
+9252501;museum management
+9252502;Conservation of historic places and buildings
+9253300;Activities of botanical gardens, zoos, national parks and ecological reserves
+9262201;bingo exploration
+9261406;Horse racing activities
+9262203;Phone sweepstakes
+9262204;Exploration of other games of chance
+9261403;Management of sports facilities
+9261401;Social, sports and similar clubs
+9261405;​
+9261402;Organization and operation of sports activities
+162799;Other service activities related to livestock  except veterinary activities
+9261402;Organization and operation of sports activities
+9261499;Other sporting activities
+9262207;Exploring amusement parks and the like
+9239803;dance academies
+9239804;Nightclubs, nightclubs and similar
+9262205;​
+9262208;​
+9262206;Exploration of arcades and electronic games
+9262299;Other leisurerelated activities
+9500100;​
+9309202;​
+9111100;Activities of business and employer organizations
+9112000;Activities of Professional Organizations
+9199500;Other associative activities, not specified above
+9191000;​
+9192800;​
+9199500;Other associative activities, not specified above
+9199500;Other associative activities, not specified above
+7250800;Maintenance, repair and installation of office and computer machines
+3290501;Maintenance and repair of radio and television transmission equipment and equipment for telephone stations, for radiotelephony and radiotelegraphy  including microwave ovens
+3290502;Maintenance and repair of intercom systems and similar  except telephones
+5271002;Telephone repair and maintenance
+5271001;Repair and maintenance of machines and household appliances  except telephone sets
+5272800;shoe repair
+5279501;​
+5279502;Jewelry and watch repair
+5279504;Repair of bicycles, tricycles and other recreational vehicles
+5279503;Repair and restoration of wooden articles and furniture
+5279502;Jewelry and watch repair
+5279599;Repair of other personal and household objects
+9301701;Laundries and dry cleaners
+9301701;Laundries and dry cleaners
+9301702;​
+9302501;​
+9302502;Manicures and other beauty treatment services
+9303301;​
+9303302;Human and animal corpse cremation services
+9303303;​
+9303304;​
+9303305;Somato conservation services
+9303399;Other funeral activities
+9304100;Physical maintenance activities
+9309201;Marriage agency activities

@@ -1,0 +1,13 @@
+# Dockerfile
+# docker-compose.yml
+**.cache/**
+**.ipynb_checkpoints/**
+**.ipthon/**
+**.jupyter/**
+**.local/**
+
+.cache/**
+.ipynb_checkpoints/**
+.ipthon/**
+.jupyter/**
+.local/**

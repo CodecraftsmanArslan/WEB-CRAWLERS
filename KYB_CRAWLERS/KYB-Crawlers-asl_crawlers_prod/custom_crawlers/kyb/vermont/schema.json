@@ -1,0 +1,848 @@
+{
+  "Domestic Non-Profit Corporation": {
+    "sheet_name": "191.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+  "192":{},
+  "193": {},
+
+  "Telemarketer": {
+    "sheet_name": "194.xlsx",
+    "schema": {
+      "name": "TELEMARKETER_NAME",
+      "status": "BUSINESS_STATUS",
+      "registration_number": "REGISTRATION_ID",
+      "registration_date": "",
+      "incorporation_date": "BUSINESS_ORIGIN_DATE",
+      "dissolution_date": "TERMINATION_DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "addresses_detail": [
+        {
+          "type": "physical_address",
+          "address": "PHYSICAL_ADDRESS_1+PHYSICAL_ADDRESS_2+PHYSICAL_ADDRESS_CITY+PHYSICAL_ADDRESS_STATE+PHYSICAL_ADDRESS_ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING_ADDRESS_1+MAILING_ADDRESS_2+MAILING_CITY+MAILING_STATE+MAILING_ZIP"
+        },
+        {
+          "type": "agent_address",
+          "address": "AGENT_ADDRESS_1+AGENT_ADDRESS_2+AGENT_CITY+AGENT_STATE+AGENT_ZIP"
+        }
+      ],
+
+      "people_detail":[
+        {
+          "name": "REGISTERED_AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT_ADDRESS_1+AGENT_ADDRESS_2+AGENT_CITY+AGENT_STATE+AGENT_ZIP"
+        }
+      ],
+
+      "additional_detail":[],
+
+      "meta_detail": {
+        "file_number": "FILE_NO",
+        "termination_date": "TERMINATION_DATE"
+      }
+    }
+  },
+
+  "Partnerships": {
+    "sheet_name": "195.xlsx",
+    "schema": {
+      "name": "BUSINESS_NAME",
+      "status": "BUSINESS_STATUS",
+      "registration_number": "BUSINESS_ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED_DATE",
+      "incorporation_date": "BUSINESS_ORIGIN_DATE",
+      "inactive_date": "CESSATION_DATE",
+      "jurisdiction": "PLACE_OF_FORMATION",
+      "type": "BUSINESS_TYPE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS_CODE",
+              "naics_subcode": "NAICS_SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION_TYPE",
+              "sub_category": "CORPORATION_SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL_OFFICE_ADDRESS_1+PRINCIPAL_OFFICE_ADDRESS_2+PRINCIPAL_OFFICE_CITY+PRINCIPAL_OFFICE_STATE+PRINCIPAL_OFFICE_ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING_ADDRESS_1+MAILING_ADDRESS_2+MAILING_STATE+MAILING_ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN_ADDRESS_1+FOREIGN_ADDRESS_2+FOREIGN_CITY+FOREIGN_STATE+FOREIGN_ZIP"
+        }
+      ],
+
+      "people_detail":[
+        {
+          "name": "REGISTERED_AGENT",
+          "designation": "registered_agent",
+          "address": "AGENT_ADDRESS_1+AGENT_ADDRESS_2+AGENT_CITY+AGENT_STATE+AGENT_ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE_NO",
+        "aliases": "FOREIGN_BUSINESS_NAME",
+        "last_annual_report_date": "LAST_ANNUAL_REPORT_DATE",
+        "termination_date": "TERMINATION_DATE",
+        "term_Date": "TERM_DATE",
+        "fiscal_year_month": "FISCAL_YEAR_MONTH",
+        "last_Annual_report_date": "LAST_ANNUAL_REPORT_DATE",
+
+        "withdrawal_date":"WITHDRAWAL_DATE",
+        "merged_date": "MERGED_DATE",
+        "cancellation_date": "CANCELLATION_DATE",
+  
+        "manager_managed": "MANAGER_MANAGED_",
+        "business_description": "BUSINESS_DESCRIPTION",
+        "members_liable": "MEMBERS_LIABLE_",
+        "member_organization": "MEMBER_ORGANIZATION_"
+      }
+    }
+  },
+
+  "Foreign Profit Corporation": {
+    "sheet_name": "196.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+  "Foreign Non-Profit Corporation": {
+    "sheet_name": "197.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+  "Foreign Mutual Benefit EnterPrise": {
+    "sheet_name": "198.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+  "Foreign Limited Liability Company": {
+    "sheet_name": "199.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+  "DomesticRestrictedLimitedLiabilityCompany": {
+    "sheet_name": "200.xlsx",
+    "schema": {
+      "name": "BUSINESS_NAME",
+      "status": "BUSINESS_STATUS",
+      "registration_number": "BUSINESS_ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED_DATE",
+      "incorporation_date": "BUSINESS_ORIGIN_DATE",
+      "inactive_date": "CESSATION_DATE",
+      "type": "BUSINESS_TYPE",
+      "jurisdiction":"PLACE_OF_FORMATION",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS_CODE",
+              "naics_subcode": "NAICS_SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION_TYPE",
+              "sub_category": "CORPORATION_SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL_OFFICE_ADDRESS_1+PRINCIPAL_OFFICE_ADDRESS_2+PRINCIPAL_OFFICE_CITY+PRINCIPAL_OFFICE_STATE+PRINCIPAL_OFFICE_ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING_ADDRESS_1+MAILING_ADDRESS_2+MAILING_STATE+MAILING_ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN_ADDRESS_1+FOREIGN_ADDRESS_2+FOREIGN_CITY+FOREIGN_STATE+FOREIGN_ZIP"
+        }
+      ],
+
+      "people_detail":[
+        {
+          "name": "REGISTERED_AGENT",
+          "designation": "registered_agent",
+          "address": "AGENT_ADDRESS_1+AGENT_ADDRESS_2+AGENT_CITY+AGENT_STATE+AGENT_ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE_NO",
+        "aliases": "FOREIGN_BUSINESS_NAME", 
+        "last_annual_report_date": "LAST_ANNUAL_REPORT_DATE",
+        "termination_date": "TERMINATION_DATE",
+        "term_Date": "TERM_DATE",
+        "fiscal_year_month": "FISCAL_YEAR_MONTH",
+        "withdrawal_date":"WITHDRAWAL_DATE",
+        "merged_date": "MERGED_DATE",
+        "cancellation_date": "CANCELLATION_DATE",
+        "manager_managed": "MANAGER_MANAGED_",
+        "business_description": "BUSINESS_DESCRIPTION",
+        "members_liable": "MEMBERS_LIABLE_",
+        "member_organization": "MEMBER_ORGANIZATION_"
+      }
+    }
+  },
+
+  "Domestic Profit Corporation": {
+    "sheet_name": "201.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+  "Domestic Mutual Benefit EnterPrise": {
+    "sheet_name": "202.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+
+  "Domestic Limited Liability Company": {
+    "sheet_name": "203.xlsx",
+    "schema": {
+      "name": "BUSINESS NAME",
+      "status": "BUSINESS STATUS",
+      "registration_number": "BUSINESS ID",
+      "registration_date": "",
+      "dissolution_date": "DISSOLVED DATE",
+      "type": "BUSINESS TYPE",
+      "jurisdiction": "PLACE OF FORMATION",
+      "incorporation_date": "BUSINESS ORIGIN DATE",
+      "inactive_date": "CESSATION DATE",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "additional_detail": [
+        {
+          "type": "naics_code",
+          "data": [
+            {
+              "naics_code": "NAICS CODE",
+              "naics_subcode": "NAICS SUBCODE"
+            }
+          ]
+        },
+        {
+          "type": "category_detail",
+          "data": [
+            {
+              "corporation_type": "CORPORATION TYPE",
+              "sub_category": "CORPORATION SUBTYPE"
+            }
+          ]
+        }
+      ],
+      "addresses_detail": [
+        {
+          "type": "principal_office_address",
+          "address": "PRINCIPAL OFFICE ADDRESS 1+PRINCIPAL OFFICE ADDRESS 2+PRINCIPAL OFFICE CITY+PRINCIPAL OFFICE STATE+PRINCIPAL OFFICE ZIP"
+        },
+        {
+          "type": "postal_address",
+          "address": "MAILING ADDRESS 1+MAILING ADDRESS 2+MAILING CITY+MAILING STATE+MAILING ZIP"
+        },
+        {
+          "type": "foreign_address",
+          "address": "FOREIGN ADDRESS 1+FOREIGN ADDRESS 2+FOREIGN CITY+FOREIGN STATE+FOREIGN ZIP"
+        }
+      ],
+
+      "meta_detail": {
+        "file_number": "FILE NO",
+        "aliases": "FOREIGN BUSINESS NAME",
+        "last_annual_report_date": "LAST ANNUAL REPORT DATE",
+        "termination_date": "TERMINATION DATE",
+        "term_date": "TERM DATE",
+        "withdrawal_date":"WITHDRAWAL DATE",
+        "merged_date": "MERGED DATE",
+        "cancellation_date": "CANCELLATION DATE",
+        "fiscal_year_month": "FISCAL YEAR MONTH",
+        "manager_managed": "MANAGER MANAGED?",
+        "business_description": "BUSINESS DESCRIPTION",
+        "members_liable": "MEMBERS LIABLE?",
+        "member_organization": "MEMBER ORGANIZATION?"
+        
+      },
+      "people_detail":[
+        {
+          "name": "REGISTERED AGENT",
+          "designation":"registered_agent",
+          "address": "AGENT ADDRESS 1+AGENT ADDRESS 2+AGENT CITY+AGENT STATE+AGENT ZIP"
+        }
+      ]
+    }
+  },
+
+  "DataBroker": {
+    "sheet_name": "204.xlsx",
+    "schema": {
+      "name": "DataBroker_Name",
+      "status": "BusinessStatus",
+      "registration_number": "RegistrationID",
+      "registration_date": "Registration_Date",
+      "dissolution_date": "",
+      "type": "BusinessType",
+      "crawler_name": "crawlers.kyb.vermont.vermont_kyb",
+      "country_name": "Vermont",
+      "company_fetched_data_status": "",
+      "addresses_detail": [
+        {
+          "type": "general_address",
+          "address": "Street_Address1+Street_Address2+City+STATE+StateName+Country+Zip"
+        }
+      ],
+      "meta_detail": {
+        "termination_date": "Termination_Date"
+      },
+
+      "contacts_detail":[
+        {
+          "type": "email",
+          "value": "EmailAddress"
+        },
+        {
+          "type":"website_link",
+          "value": "PrimaryInternetAddress"
+        }
+      ],
+
+      "additional_detail":[]
+    }
+  }
+}
