@@ -5,38 +5,82 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Shopping Cart</title>
 <style>
-    .cart-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-        gap: 20px;
-    }
+/* Navbar styles */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-    .cart-item {
-        border: 1px solid #ccc;
-        padding: 10px;
-    }
+.navbar-brand {
+    font-size: 20px;
+    font-weight: bold;
+}
 
-    .cart-item img {
-        width: 100%;
-        height: auto;
-        margin-bottom: 10px;
-    }
+.navbar-buttons {
+    display: flex;
+    align-items: center;
+}
 
-    .cart-item .title {
-        font-size: 16px;
-        font-weight: bold;
-        margin-bottom: 5px;
-    }
+.navbar-buttons button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
 
-    .cart-item .price {
-        font-size: 14px;
-    }
+.cart-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.cart-item {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 100%; /* Ensure all cart items have the same height */
+}
+
+.cart-item img {
+    width: 100%;
+    height: auto; /* Ensure the original aspect ratio is maintained */
+    margin-bottom: 10px;
+}
+
+.cart-item .title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px; /* Add some space between title and price */
+    flex-grow: 1; /* Allow the title to grow to fill available space */
+}
+
+.cart-item .price {
+    font-size: 14px;
+    margin-left:230px
+}
 </style>
 </head>
 <body>
 
-<div class="cart-container" enctype="multipart/form-data">
-    {% csrf_token %}
+<!-- Navbar -->
+<div class="navbar">
+    <div class="navbar-brand">Ecommerce Logo</div>
+    <div class="navbar-buttons">
+        <button>Login</button>
+    </div>
+</div>
+<br>
+
+
+<!-- Cart items -->
+<div class="cart-container">
     {% for info in infos %}
     <div class="cart-item">
         <img src="{{ info.image }}" alt="Product Image 1">

@@ -47,7 +47,7 @@ def add_item(request):
     data_list = []
     for product in item_info:
         title = product.title
-        price = product.price
+        price = f"${product.price}"
         image = product.header_image.url
         print(image)
         data_list.append({'title': title, 'price': price, 'image': image})
