@@ -14,5 +14,3 @@ print(array_list)
 
 
 
-
-
