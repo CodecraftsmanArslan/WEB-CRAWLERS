@@ -1,9 +1,12 @@
 from django.contrib.auth.models import User
 from .models import Product
-from django.http import HttpResponse
+from .models import CardItem
+from django.http import HttpResponse,HttpResponseNotAllowed
 from django.shortcuts import render,redirect
 from django.contrib import messages
 from django.contrib.auth import authenticate, login
+from django.shortcuts import get_object_or_404
+
 
 
 def user_login(request):
@@ -49,10 +52,35 @@ def add_item(request):
         title = product.title
         price = f"${product.price}"
         image = product.header_image.url
-        print(image)
-        data_list.append({'title': title, 'price': price, 'image': image})
+        data_list.append({'id': product.pk, 'title': title, 'price': price, 'image': image})  # Include product ID
+    return render(request, 'item.html', {'infos': data_list})
 
-    return render(request,'item.html',{'infos':data_list})
+
+def add_to_cart(request):
+    if request.method == 'POST':
+        product_id = request.POST.get('product_id')
+        product = Product.objects.get(pk=product_id)
+        existing_item = CardItem.objects.filter(title=product.title, price=product.price).first()
+        if not existing_item:
+            card_item = CardItem(title=product.title, price=product.price)
+            card_item.save()
+        return redirect('item')
+
+    cart_data = CardItem.objects.all()
+    info_data = [{'title': item.title, 'price': item.price} for item in cart_data]
+    return render(request, 'add_item.html', {'items': info_data})
+
+
+
+
+
+
+
+    
+
+
+
+
 
 
 

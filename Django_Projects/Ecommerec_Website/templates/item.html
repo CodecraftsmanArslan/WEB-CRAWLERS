@@ -20,11 +20,6 @@
     font-weight: bold;
 }
 
-.navbar-buttons {
-    display: flex;
-    align-items: center;
-}
-
 .navbar-buttons button {
     background-color: #4CAF50;
     color: white;
@@ -34,36 +29,66 @@
     margin-left: 10px;
 }
 
+.container {
+    display: flex;
+    justify-content: center; /* Center the cart items horizontally */
+}
+
 .cart-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
+    margin-top: 20px; /* Add some space between the navbar and cart items */
 }
 
 .cart-item {
+    position: relative;
     display: flex;
     flex-direction: column;
     border: 1px solid #ccc;
     padding: 10px;
-    height: 100%; /* Ensure all cart items have the same height */
+    height: 100%;
 }
 
-.cart-item img {
-    width: 100%;
-    height: auto; /* Ensure the original aspect ratio is maintained */
+.button-container {
+    display: flex;
+    justify-content: space-between;
     margin-bottom: 10px;
 }
 
-.cart-item .title {
-    font-size: 16px;
-    font-weight: bold;
-    margin-bottom: 10px; /* Add some space between title and price */
-    flex-grow: 1; /* Allow the title to grow to fill available space */
+.add-to-cart-button,
+.view-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
-.cart-item .price {
-    font-size: 14px;
-    margin-left:230px
+.add-to-cart-button:hover,
+.view-button:hover {
+    background-color: #45a049;
+}
+
+.view-button {
+    margin-left: 5px; /* Add margin between Add to Cart and View */
+}
+
+.price {
+    margin-left: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .button-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .add-to-cart-button,
+    .view-button {
+        margin-top: 5px;
+    }
 }
 </style>
 </head>
@@ -78,17 +103,23 @@
 </div>
 <br>
 
-
-<!-- Cart items -->
-<div class="cart-container">
-    {% for info in infos %}
-    <div class="cart-item">
-        <img src="{{ info.image }}" alt="Product Image 1">
-        <div class="title">{{ info.title }}</div>
-        <div class="price">{{ info.price }}</div>
+<!-- Cart items container -->
+<form class="container" method="POST" action="{% url 'add_to_cart' %}">
+    <div class="cart-container">
+        {% csrf_token %}
+        {% for info in infos %}
+        <div class="cart-item">
+            <img src="{{ info.image }}" alt="Product Image 1">
+            <div class="title">{{ info.title }}</div>
+            <div class="button-container">
+                <button type="submit" class="view-button" name="product_id" value="{{ info.id }}">Add to Cart</button>
+                <button class="view-button">View</button>
+                <div class="price">{{ info.price }}</div>
+            </div>
+        </div>
+        {% endfor %}
     </div>
-    {% endfor %}
-</div>
+</form>
 
 </body>
 </html>
