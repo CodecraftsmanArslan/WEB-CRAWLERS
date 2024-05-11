@@ -70,6 +70,9 @@ def add_to_cart(request):
     info_data = [{'title': item.title, 'price': item.price} for item in cart_data]
     return render(request, 'add_item.html', {'items': info_data})
 
+# def quantity_increase(request):
+#     return render(request,'add_item.html')
+
 
 
 

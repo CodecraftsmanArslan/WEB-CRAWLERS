@@ -37,27 +37,93 @@
         th {
             background-color: #f0f0f0;
         }
+
+        .quantity-container {
+            display: flex;
+            flex-direction: column; /* Arrange items vertically */
+        }
+
+        .quantity-img,
+        .down-img {
+            width: 15px;
+            height: 15px;
+            cursor: pointer;
+        }
+
+        .down-img {
+            margin-top: 25px;
+            order: -1;
+        }
+
+        .quantity {
+            margin-bottom: 5px;
+            margin-left: 25px;
+            order: -1;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h2>Item Prices</h2>
-        {% for item_value in items %}
         <table border="1">
             <thead>
                 <tr>
                     <th>Item</th>
                     <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total Price</th>
                 </tr>
             </thead>
             <tbody>
+                {% load static %}
+                {% for item_value in items %}
                 <tr>
-                    <td>{{ item_value.title }}</td>
-                    <td>{{ item_value.price }}</td>
+                    <td >{{ item_value.title }}</td>
+                    <td class="base-price">{{ item_value.price }}</td>
+                    <td class="quantity-container"> 
+                        <img class="quantity-img" src="{% static 'up_arrow_images.png' %}" alt="" onclick="increaseQuantity(this)">
+                        <img class="down-img" src="{% static 'down-arrow.png' %}" alt="" onclick="decreaseQuantity(this)">
+                        <span class="quantity">1</span>
+                    </td>
+                    <td class="total-price">{{ item_value.price }}</td>
                 </tr>
+                {% endfor %}
             </tbody>
         </table>
-        {% endfor %}
     </div>
+
+    <script>
+        function increaseQuantity(element) {
+            var quantityElement = element.nextElementSibling.nextElementSibling;
+            var currentQuantity = parseInt(quantityElement.textContent);
+            quantityElement.textContent = currentQuantity + 1;
+            var priceElement = element.parentElement.nextElementSibling;
+            console.log(priceElement)
+            var basePriceElement = element.parentElement.previousElementSibling;
+            priceQuantity(basePriceElement, priceElement);
+
+        }
+
+        function priceQuantity(basePriceElement, priceElement) {
+            var basePrice = parseFloat(basePriceElement.textContent);
+            var quantity = parseInt(priceElement.textContent);
+            var totalPrice = basePrice+quantity;
+            priceElement.textContent = totalPrice;
+        }
+        
+        function decreaseQuantity(element) {
+            var quantityElement = element.nextElementSibling;
+            var currentQuantity = parseInt(quantityElement.textContent);
+            if (currentQuantity > 1) {
+                quantityElement.textContent = currentQuantity - 1;
+                var decreasePriceElement = element.parentElement.previousElementSibling;
+                var decreasePrice=parseInt(decreasePriceElement.textContent)
+                var priceElement = element.parentElement.nextElementSibling;
+                var quantity = parseInt(priceElement.textContent);
+                var totalPrice = quantity - decreasePrice  ; 
+                priceElement.textContent = totalPrice.toFixed(2); 
+            }
+}
+    </script>
 </body>
 </html>

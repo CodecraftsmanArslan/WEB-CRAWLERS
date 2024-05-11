@@ -110,7 +110,9 @@
         {% for info in infos %}
         <div class="cart-item">
             <img src="{{ info.image }}" alt="Product Image 1">
+            <br>
             <div class="title">{{ info.title }}</div>
+            <br>
             <div class="button-container">
                 <button type="submit" class="view-button" name="product_id" value="{{ info.id }}">Add to Cart</button>
                 <button class="view-button">View</button>

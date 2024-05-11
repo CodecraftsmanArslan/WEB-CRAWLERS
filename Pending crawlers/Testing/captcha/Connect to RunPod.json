@@ -1,0 +1,5 @@
+[
+    {
+        "text":"Connect to RunPod\nThere are many ways to interact with RunPod:\n\nWeb interface\nCLI\nSDKs\nWeb interface\nCreate an account and then log into the web interface at the following address: runpod.io\/console\/login.\n\nCLI\nYou can use RunPod's CLI runpodctl to manage Pods and for development.\n\nAll Pods come with runpodctl installed with a Pod-scoped API key, which makes managing your Pods easier through the command line.\n\nSDKs\nRunPod provides SDKs for the following programming languages:\n\nGraphQL\nJavaScript\nPython"
+    }
+]

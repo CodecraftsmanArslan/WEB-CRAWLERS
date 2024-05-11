@@ -105,8 +105,6 @@ for optgroup in options:
             print("CSV file saved successfully.")
 
 
-# LIUFAM
-# get the result from there
 
 
 

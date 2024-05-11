@@ -83,6 +83,7 @@ def main():
     for i in range(start_num, 63):
         all_data += extract_data(driver, i)
         save_data(all_data)
+        
 
 
 if __name__ == "__main__":

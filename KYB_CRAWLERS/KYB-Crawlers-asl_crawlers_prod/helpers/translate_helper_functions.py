@@ -88,3 +88,4 @@ def insert_reports_table(data_array):
         conn.rollback()
         print('Error inserting translated record')
         print(e)
+

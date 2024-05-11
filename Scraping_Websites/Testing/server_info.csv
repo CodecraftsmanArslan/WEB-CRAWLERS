@@ -1,0 +1,491 @@
+"id","location","price","number","type","processor","ram","ssd","uptime"
+1,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+2,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+3,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+4,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+5,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+6,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+7,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+8,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+9,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+10,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+11,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+12,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+13,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+14,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+15,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+16,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+17,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+18,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+19,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+20,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+21,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+22,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+23,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+24,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+25,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+26,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+27,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+28,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+29,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+30,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+31,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+32,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+33,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+34,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+35,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+36,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+37,"Kansas City, Missouri, United States", $1.1230/hr , L40 PCIE 48 GB,"1", 4x Intel Xeon Platinum 8352Y vCPUs, 30 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+38,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+39,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+40,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+41,"Detroit, Michigan, United States", $0.6540/hr , GeForce RTX 3080 Ti PCIE 12 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+42,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+43,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+44,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+45,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+46,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+47,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+48,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+49,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+50,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+51,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+52,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+53,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+54,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+55,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+56,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+57,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+58,"Detroit, Michigan, United States", $0.6540/hr , GeForce RTX 3080 Ti PCIE 12 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+59,"Kansas City, Missouri, United States", $1.1230/hr , L40 PCIE 48 GB,"1", 4x Intel Xeon Platinum 8352Y vCPUs, 30 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+60,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+61,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+62,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+63,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+64,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+65,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+66,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+67,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+68,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+69,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+70,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+71,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+72,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+73,"Los Angeles, California, United States", $0.3990/hr , V100 SXM2 16 GB,"1", 6x Intel Xeon E5-2680 v4 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+74,"New York City, New York, United States", $0.3990/hr , V100 SXM2 16 GB,"1", 6x Intel Xeon E5-2680 v4 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+75,"Southfield, Michigan, United States", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2667 v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.85% Uptime
+76,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+77,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+78,"Philadelphia, Pennsylvania, United States", $0.2150/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Xeon E5-2699 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+79,"Chubbuck, Idaho, United States", $0.2650/hr ,  ADA  RTX A4000 PCIE 20 GB,"1", 2x AMD EPYC 7302 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.81% Uptime
+80,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+81,"Detroit, Michigan, United States", $0.2800/hr , GeForce GTX 1070 PCIE 8 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+82,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+83,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+84,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+85,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+86,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+87,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+88,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+89,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+90,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+91,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+92,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+93,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+94,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+95,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+96,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+97,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+98,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+99,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+100,"Detroit, Michigan, United States", $0.5300/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2640 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.88% Uptime
+101,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+102,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+103,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+104,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+105,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+106,"Detroit, Michigan, United States", $0.6540/hr , GeForce RTX 3080 Ti PCIE 12 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+107,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+108,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+109,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+110,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+111,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+112,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+113,"Kansas City, Missouri, United States", $1.1230/hr , L40 PCIE 48 GB,"1", 4x Intel Xeon Platinum 8352Y vCPUs, 30 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+114,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+115,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+116,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+117,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+118,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+119,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+120,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+121,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+122,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+123,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+124,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+125,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+126,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+127,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+128,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+129,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+130,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+131,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+132,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+133,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+134,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+135,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+136,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+137,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+138,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+139,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+140,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+141,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+142,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+143,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+144,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+145,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+146,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+147,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+148,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+149,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+150,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+151,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+152,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+153,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+154,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+155,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+156,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+157,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+158,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+159,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+160,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+161,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+162,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+163,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+164,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+165,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+166,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+167,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+168,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+169,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+170,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+171,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+172,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+173,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+174,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+175,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+176,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+177,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+178,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+179,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+180,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+181,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+182,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+183,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+184,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+185,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+186,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+187,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+188,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+189,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+190,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+191,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+192,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+193,"Chubbuck, Idaho, United States", $0.2650/hr ,  ADA  RTX A4000 PCIE 20 GB,"1", 2x AMD EPYC 7302 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.81% Uptime
+194,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+195,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+196,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+197,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+198,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+199,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+200,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+201,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+202,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+203,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+204,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+205,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+206,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+207,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+208,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+209,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+210,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+211,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+212,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+213,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+214,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+215,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+216,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+217,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+218,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+219,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+220,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+221,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+222,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+223,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+224,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+225,"Southfield, Michigan, United States", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2667 v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.85% Uptime
+226,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+227,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+228,"Philadelphia, Pennsylvania, United States", $0.2150/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Xeon E5-2699 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+229,"Detroit, Michigan, United States", $0.5300/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2640 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.88% Uptime
+230,"Chubbuck, Idaho, United States", $0.2650/hr ,  ADA  RTX A4000 PCIE 20 GB,"1", 2x AMD EPYC 7302 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.81% Uptime
+231,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+232,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+233,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+234,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+235,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+236,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+237,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+238,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+239,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+240,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+241,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+242,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+243,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+244,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+245,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+246,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+247,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+248,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+249,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+250,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+251,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+252,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+253,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+254,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+255,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+256,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+257,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+258,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+259,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+260,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+261,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+262,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+263,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+264,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+265,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+266,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+267,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+268,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+269,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+270,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+271,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+272,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+273,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+274,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+275,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+276,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+277,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+278,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+279,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+280,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+281,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+282,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+283,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+284,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+285,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+286,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+287,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+288,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+289,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+290,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+291,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+292,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+293,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+294,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+295,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+296,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+297,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+298,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+299,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+300,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+301,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+302,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+303,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+304,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+305,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+306,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+307,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+308,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+309,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+310,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+311,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+312,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+313,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+314,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+315,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+316,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+317,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+318,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+319,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+320,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+321,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+322,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+323,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+324,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+325,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+326,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+327,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+328,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+329,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+330,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+331,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+332,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+333,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+334,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+335,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+336,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+337,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+338,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+339,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+340,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+341,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+342,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+343,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+344,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+345,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+346,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+347,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+348,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+349,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+350,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+351,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+352,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+353,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+354,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+355,"Detroit, Michigan, United States", $0.6540/hr , GeForce RTX 3080 Ti PCIE 12 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+356,"Southfield, Michigan, United States", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2667 v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.85% Uptime
+357,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+358,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+359,"Philadelphia, Pennsylvania, United States", $0.2150/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Xeon E5-2699 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+360,"Chubbuck, Idaho, United States", $0.2650/hr ,  ADA  RTX A4000 PCIE 20 GB,"1", 2x AMD EPYC 7302 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.81% Uptime
+361,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+362,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+363,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+364,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+365,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+366,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+367,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+368,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+369,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+370,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+371,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+372,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+373,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+374,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+375,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+376,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+377,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+378,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+379,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+380,"Detroit, Michigan, United States", $0.5300/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2640 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.88% Uptime
+381,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+382,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+383,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+384,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+385,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+386,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+387,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+388,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+389,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+390,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+391,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+392,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+393,"Eksjö, Jönköpings län, Sweden", $0.1160/hr , GeForce RTX 3060 Ti PCIE 8 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+394,"Southfield, Michigan, United States", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2667 v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.85% Uptime
+395,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+396,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+397,"Philadelphia, Pennsylvania, United States", $0.2150/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Xeon E5-2699 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+398,"Chubbuck, Idaho, United States", $0.2650/hr ,  ADA  RTX A4000 PCIE 20 GB,"1", 2x AMD EPYC 7302 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.81% Uptime
+399,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+400,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+401,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+402,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+403,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+404,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+405,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+406,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+407,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+408,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+409,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+410,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+411,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+412,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+413,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+414,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+415,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+416,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+417,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+418,"Detroit, Michigan, United States", $0.5300/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2640 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.88% Uptime
+419,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+420,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+421,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+422,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+423,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+424,"Detroit, Michigan, United States", $0.6540/hr , GeForce RTX 3080 Ti PCIE 12 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+425,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+426,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+427,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+428,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+429,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+430,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+431,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+432,"Detroit, Michigan, United States", $0.2800/hr , GeForce GTX 1070 PCIE 8 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+433,"Eksjö, Jönköpings län, Sweden", $0.1160/hr , GeForce RTX 3060 Ti PCIE 8 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+434,"Southfield, Michigan, United States", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2667 v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.85% Uptime
+435,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+436,"Tallinn, Harjumaa, Estonia", $0.1250/hr ,  RTX A4000 PCIE 16 GB,"1", 2x AMD EPYC 7551P vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+437,"Philadelphia, Pennsylvania, United States", $0.2150/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Xeon E5-2699 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+438,"Chubbuck, Idaho, United States", $0.2650/hr ,  ADA  RTX A4000 PCIE 20 GB,"1", 2x AMD EPYC 7302 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.81% Uptime
+439,"Mumbai, Maharashtra, India", $0.2710/hr ,  RTX A5000 PCIE 24 GB,"1", 4x AMD EPYC 7282 vCPUs, 24 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+440,"Mumbai, Maharashtra, India", $0.3390/hr ,  RTX A5000 PCIE 24 GB,"1", 8x AMD EPYC 7543 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+441,"Winnipeg, Manitoba, Canada", $0.3860/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD Ryzen 9 3900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.72% Uptime
+442,"Gliwice, Slaskie, Poland", $0.3930/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x Intel Xeon CPU E5-2687W v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.62% Uptime
+443,"Los Angeles, California, United States", $0.3990/hr , V100 SXM2 16 GB,"1", 6x Intel Xeon E5-2680 v4 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+444,"New Jersey, New York, United States", $0.3990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 7900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+445,"New York City, New York, United States", $0.3990/hr , V100 SXM2 16 GB,"1", 6x Intel Xeon E5-2680 v4 vCPUs, 52 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+446,"Orlando, Florida, United States", $0.4000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+447,"Gaithersburg, Maryland, United States", $0.4070/hr , GeForce RTX 3090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+448,"Winnipeg, Manitoba, Canada", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen 9 5900X vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.70% Uptime
+449,"Orlando, Florida, United States", $0.4150/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+450,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+451,"Gaithersburg, Maryland, United States", $0.4310/hr , GeForce RTX 3090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+452,"Orlando, Florida, United States", $0.4400/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+453,"Gaithersburg, Maryland, United States", $0.4510/hr , GeForce RTX 3090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+454,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+455,"Orlando, Florida, United States", $0.4650/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7J13 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+456,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+457,"Chubbuck, Idaho, United States", $0.4680/hr ,  ADA  RTX A4500 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 3955WX vCPUs, 14 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+458,"Kraków, Małopolska, Poland", $0.5000/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7502 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.95% Uptime
+459,"Kraków, Małopolska, Poland", $0.5030/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x Intel(R) Xeon(R) CPU E5-2690  v4 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+460,"Detroit, Michigan, United States", $0.5300/hr ,  RTX A4000 PCIE 16 GB,"1", 2x Intel Xeon E5-2640 v3 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.88% Uptime
+461,"Kiev, Kyiv, Ukraine", $0.5710/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD Ryzen Threadripper PRO 5975WX vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+462,"Gaithersburg, Maryland, United States", $0.5990/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 18 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+463,"Gaithersburg, Maryland, United States", $0.6210/hr , GeForce RTX 4090 PCIE 24 GB,"1", 6x AMD Ryzen 7 5700G vCPUs, 38 GB RAM, 20 GB NVMe SSD, 99.89% Uptime
+464,"Gaithersburg, Maryland, United States", $0.6270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 4x AMD Ryzen Threadripper PRO 5975WX vCPUs, 60 GB RAM, 20 GB NVMe SSD, 99.78% Uptime
+465,"Gaithersburg, Maryland, United States", $0.6410/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x  AMD Ryzen 9 7900X  vCPUs, 28 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+466,"Detroit, Michigan, United States", $0.6540/hr , GeForce RTX 3080 Ti PCIE 12 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+467,"Portland, Oregon, United States", $0.6770/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+468,"Portland, Oregon, United States", $0.6970/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+469,"Portland, Oregon, United States", $0.7270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 99.71% Uptime
+470,"Portland, Oregon, United States", $0.8270/hr , GeForce RTX 4090 PCIE 24 GB,"1", 8x AMD EPYC 75F3 vCPUs, 26 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+471,"Detroit, Michigan, United States", $0.8300/hr , GeForce RTX 3090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+472,"Detroit, Michigan, United States", $1.0300/hr , GeForce RTX 4090 PCIE 24 GB,"1", 2x AMD EPYC 7282 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+473,"Kansas City, Missouri, United States", $1.1230/hr , L40 PCIE 48 GB,"1", 4x Intel Xeon Platinum 8352Y vCPUs, 30 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+474,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+475,"Prague, Prague, Czech Republic", $1.6280/hr , A100 PCIE 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+476,"Prague, Prague, Czech Republic", $1.8540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+477,"Prague, Prague, Czech Republic", $1.9540/hr , A100 SXM4 80 GB,"1", 2x AMD EPYC 7513 vCPUs, 6 GB RAM, 20 GB NVMe SSD, 99.99% Uptime
+478,"Prague, Prague, Czech Republic", $1.9860/hr , A100 SXM4 80 GB,"1", 12x AMD EPYC 7513 vCPUs, 42 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+479,"Dallas, Texas, United States", $2.7500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+480,"Dallas, Texas, United States", $2.9500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+481,"Dallas, Texas, United States", $3.1500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.87% Uptime
+482,"Dallas, Texas, United States", $3.3500/hr , H100 SXM5 80 GB,"1", 6x Intel Xeon Platinum 8470 vCPUs, 20 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+483,"Kansas City, Missouri, United States", $3.8350/hr , A100 PCIE 80 GB,"2", 14x AMD EPYC 7502 vCPUs, 96 GB RAM, 20 GB NVMe SSD, 99.82% Uptime
+484,"Dallas, Texas, United States", $13.3360/hr , H100 SXM5 80 GB,"4", 18x Intel Xeon Platinum 8470 vCPUs, 78 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+485,"Dallas, Texas, United States", $25.0440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.83% Uptime
+486,"Dallas, Texas, United States", $26.6440/hr , H100 SXM5 80 GB,"8", 34x Intel Xeon Platinum 8470 vCPUs, 154 GB RAM, 20 GB NVMe SSD, 99.86% Uptime
+487,"Philadelphia, Pennsylvania, United States", $0.4310/hr , Quadro RTX 8000 PCIE 48 GB,"1", 6x Intel Xeon CPU E5-2687W v3 vCPUs, 56 GB RAM, 20 GB NVMe SSD, 100.00% Uptime
+488,"Kansas City, Missouri, United States", $0.4650/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6238R vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.97% Uptime
+489,"Vancouver, British Columbia, Canada", $0.4660/hr ,  RTX A6000 PCIE 48 GB,"1", 2x AMD EPYC 7343 vCPUs, 4 GB RAM, 20 GB NVMe SSD, 99.98% Uptime
+490,"Detroit, Michigan, United States", $1.4540/hr ,  RTX A6000 PCIE 48 GB,"1", 2x Intel Xeon Gold 6148 vCPUs, 10 GB RAM, 20 GB NVMe SSD, 100.00% Uptime

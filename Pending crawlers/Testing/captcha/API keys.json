@@ -1,0 +1,5 @@
+[
+    {
+        "text":"API keys\nAPI keys authenticate requests to RunPod. You can generate an API key with Read and Write permission or Read permission.\n\nGenerate\nTo create an API key:\n\nFrom the console, select Settings.\nUnder API Keys, choose + API Keys.\nSelect the permission and choose Create.\nNOTE\nOnce your API key is generated, keep it secure. Treat it like a password and avoid sharing it in insecure environments.\n\nRevoke\nTo delete an API key:\n\nFrom the console, select Settings.\nUnder API Keys, select the trash can icon and select Yes."
+    }
+]

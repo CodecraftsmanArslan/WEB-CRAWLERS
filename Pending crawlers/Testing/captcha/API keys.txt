@@ -1,0 +1,17 @@
+API keys
+API keys authenticate requests to RunPod. You can generate an API key with Read and Write permission or Read permission.
+
+Generate
+To create an API key:
+
+From the console, select Settings.
+Under API Keys, choose + API Keys.
+Select the permission and choose Create.
+NOTE
+Once your API key is generated, keep it secure. Treat it like a password and avoid sharing it in insecure environments.
+
+Revoke
+To delete an API key:
+
+From the console, select Settings.
+Under API Keys, select the trash can icon and select Yes.

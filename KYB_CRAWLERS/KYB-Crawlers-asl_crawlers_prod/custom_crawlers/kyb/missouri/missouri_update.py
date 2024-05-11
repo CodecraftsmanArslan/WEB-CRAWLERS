@@ -89,7 +89,6 @@ def get_data(search_key):
     move_on_first_page.click()
 
     while True:
-
         try:
             url_elements = WebDriverWait(driver, 10).until(
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'tr.rgRow td:nth-child(4) a'))

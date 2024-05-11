@@ -77,8 +77,6 @@ def save_data(element_info):
         print("Data appended to existing Excel file.")
 
 
-
-
 def main():
     url = "https://hsba.org/HSBA_2020/For_the_Public/Find_a_Lawyer/HSBA_2020/Public/Find_a_Lawyer.aspx?hkey=5850e9dd-227b-4556-8ec8-cf8878106f77"
     driver = webdriver.Chrome("C:\Program Files (x86)\chromedriver.exe")
@@ -90,7 +88,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-# starting for letter m
 
 
 

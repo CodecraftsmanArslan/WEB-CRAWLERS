@@ -2725,41 +2725,43 @@ array_list = [1, 3, 20, 4, 1, 0]
 
 // using namespace std;
 
-// bool areKAnagrams(string str1, string str2, int k) {
-//     int n = str1.length();
-//     int m = str2.length();
-//     if (n != m) {
-//         return false;
-//     }
-    
-//     unordered_map<char, int> freqMap;
-//     for (int c = 0; c < n; c++) {
-//         freqMap[str1[c]]++;
-//     }
-    
-//     int count = 0;
-//     for (int i = 0; i < m; i++) {
-//         if (freqMap[str2[i]] > 0) {
-//             freqMap[str2[i]]--;
-//         } else {
-//             count++;
-//         }
-//     }
-    
-//     return (count <= k);
-// }
 
-// int main() {
-//     string str1 = "geeks";
-//     string str2 = "eggkf";
-//     int k = 1;
-//     if (areKAnagrams(str1, str2, k)) {
-//         cout << "The strings are k-anagrams." << endl;
-//     } else {
-//         cout << "The strings are not k-anagrams." << endl;
-//     }
-//     return 0;
-// }
+
+bool areKAnagrams(string str1, string str2, int k) {
+    int n = str1.length();
+    int m = str2.length();
+    if (n != m) {
+        return false;
+    }
+    
+    unordered_map<char, int> freqMap;
+    for (int c = 0; c < n; c++) {
+        freqMap[str1[c]]++;
+    }
+    
+    int count = 0;
+    for (int i = 0; i < m; i++) {
+        if (freqMap[str2[i]] > 0) {
+            freqMap[str2[i]]--;
+        } else {
+            count++;
+        }
+    }
+
+    return (count <= k);
+}
+
+int main() {
+    string str1 = "geeks";
+    string str2 = "eggkf";
+    int k = 1;
+    if (areKAnagrams(str1, str2, k)) {
+        cout << "The strings are k-anagrams." << endl;
+    } else {
+        cout << "The strings are not k-anagrams." << endl;
+    }
+    return 0;
+}
 
 
 
